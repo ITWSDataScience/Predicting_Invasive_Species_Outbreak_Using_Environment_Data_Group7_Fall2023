@@ -1,0 +1,2306 @@
+observation_date,number_found,common_name,running_total_per_species,running_total_all
+2007-10-01,500.0,"Common reed grass, phragmites",500.0,500.0
+2007-10-01,20.0,"Tree-of-heaven, Ailanthus",20.0,520.0
+2009-06-01,1000.0,"Common reed grass, phragmites",1500.0,1520.0
+2011-06-01,40.0,"Tree-of-heaven, Ailanthus",60.0,1560.0
+2011-06-01,5.0,"Tree-of-heaven, Ailanthus",65.0,1565.0
+2011-06-01,20.0,"Tree-of-heaven, Ailanthus",85.0,1585.0
+2011-06-01,10.0,"Tree-of-heaven, Ailanthus",95.0,1595.0
+2011-06-01,10.0,"Tree-of-heaven, Ailanthus",105.0,1605.0
+2011-07-01,40.0,"Tree-of-heaven, Ailanthus",145.0,1645.0
+2011-07-01,30.0,"Tree-of-heaven, Ailanthus",175.0,1675.0
+2011-07-01,100000.0,"Common reed grass, phragmites",101500.0,101675.0
+2011-07-01,10.0,"Tree-of-heaven, Ailanthus",185.0,101685.0
+2011-07-01,10000.0,"Common reed grass, phragmites",111500.0,111685.0
+2011-07-01,20.0,"Tree-of-heaven, Ailanthus",205.0,111705.0
+2011-07-01,15.0,"Tree-of-heaven, Ailanthus",220.0,111720.0
+2011-07-01,50.0,"Tree-of-heaven, Ailanthus",270.0,111770.0
+2011-07-01,10.0,"Tree-of-heaven, Ailanthus",280.0,111780.0
+2011-07-01,100.0,"Tree-of-heaven, Ailanthus",380.0,111880.0
+2011-07-01,6.0,"Tree-of-heaven, Ailanthus",386.0,111886.0
+2011-07-01,6.0,"Tree-of-heaven, Ailanthus",392.0,111892.0
+2011-07-01,10.0,"Tree-of-heaven, Ailanthus",402.0,111902.0
+2011-08-01,100.0,Knotweed (species unknown),100.0,112002.0
+2011-08-01,10000.0,"Common reed grass, phragmites",121500.0,122002.0
+2011-08-01,5.0,"Tree-of-heaven, Ailanthus",407.0,122007.0
+2011-08-01,50.0,Purple Loosestrife,50.0,122057.0
+2011-08-01,500.0,"Common reed grass, phragmites",122000.0,122557.0
+2011-09-01,10000.0,"Common reed grass, phragmites",132000.0,132557.0
+2012-04-01,300.0,"Common reed grass, phragmites",132300.0,132857.0
+2012-05-01,150.0,"Common reed grass, phragmites",132450.0,133007.0
+2012-05-01,300.0,"Common reed grass, phragmites",132750.0,133307.0
+2012-05-01,50.0,"Tree-of-heaven, Ailanthus",457.0,133357.0
+2012-05-01,200.0,Knotweed (species unknown),300.0,133557.0
+2012-05-01,500.0,"Common reed grass, phragmites",133250.0,134057.0
+2012-05-01,100.0,"Common reed grass, phragmites",133350.0,134157.0
+2012-05-05,10000.0,"Common reed grass, phragmites",143350.0,144157.0
+2012-06-01,20.0,"Tree-of-heaven, Ailanthus",477.0,144177.0
+2012-06-01,5.0,"Tree-of-heaven, Ailanthus",482.0,144182.0
+2012-06-01,200.0,Knotweed (species unknown),500.0,144382.0
+2012-07-01,300.0,"Common reed grass, phragmites",143650.0,144682.0
+2012-07-01,500.0,Purple Loosestrife,550.0,145182.0
+2012-07-01,20.0,Purple Loosestrife,570.0,145202.0
+2012-07-01,100.0,"Common reed grass, phragmites",143750.0,145302.0
+2012-07-01,2000.0,"Common reed grass, phragmites",145750.0,147302.0
+2012-08-01,20.0,"Tree-of-heaven, Ailanthus",502.0,147322.0
+2012-09-01,20.0,"Tree-of-heaven, Ailanthus",522.0,147342.0
+2013-08-01,100.0,"Common reed grass, phragmites",145850.0,147442.0
+2013-08-01,200.0,Purple Loosestrife,770.0,147642.0
+2013-08-01,50.0,Purple Loosestrife,820.0,147692.0
+2013-08-01,300.0,Purple Loosestrife,1120.0,147992.0
+2013-08-01,500.0,Purple Loosestrife,1620.0,148492.0
+2013-08-01,150.0,"Tree-of-heaven, Ailanthus",672.0,148642.0
+2013-08-01,200.0,"Common reed grass, phragmites",146050.0,148842.0
+2013-08-01,,"Common reed grass, phragmites",,
+2013-08-01,100000.0,"Common reed grass, phragmites",246050.0,248842.0
+2013-08-01,30.0,"Tree-of-heaven, Ailanthus",702.0,248872.0
+2013-08-01,30.0,"Tree-of-heaven, Ailanthus",732.0,248902.0
+2013-08-01,6.0,"Tree-of-heaven, Ailanthus",738.0,248908.0
+2013-08-01,1000.0,"Common reed grass, phragmites",247050.0,249908.0
+2013-09-01,50.0,Knotweed (species unknown),550.0,249958.0
+2013-09-01,200.0,Purple Loosestrife,1820.0,250158.0
+2013-09-01,1000.0,Knotweed (species unknown),1550.0,251158.0
+2013-09-01,100.0,"Tree-of-heaven, Ailanthus",838.0,251258.0
+2013-09-01,400.0,Knotweed (species unknown),1950.0,251658.0
+2013-09-01,1000.0,Knotweed (species unknown),2950.0,252658.0
+2013-10-01,10000.0,"Common reed grass, phragmites",257050.0,262658.0
+2013-10-01,100.0,Knotweed (species unknown),3050.0,262758.0
+2013-10-01,300.0,"Common reed grass, phragmites",257350.0,263058.0
+2013-10-01,1000.0,Knotweed (species unknown),4050.0,264058.0
+2014-07-01,50.0,Knotweed (species unknown),4100.0,264108.0
+2014-07-01,50.0,Knotweed (species unknown),4150.0,264158.0
+2014-07-01,1000.0,Knotweed (species unknown),5150.0,265158.0
+2014-07-01,200.0,Knotweed (species unknown),5350.0,265358.0
+2014-07-01,50.0,Knotweed (species unknown),5400.0,265408.0
+2014-07-01,100.0,Knotweed (species unknown),5500.0,265508.0
+2014-07-01,200.0,Knotweed (species unknown),5700.0,265708.0
+2014-07-01,300.0,Knotweed (species unknown),6000.0,266008.0
+2014-08-01,,Knotweed (species unknown),,
+2014-08-01,30.0,Purple Loosestrife,1850.0,266038.0
+2014-09-01,20.0,"Tree-of-heaven, Ailanthus",858.0,266058.0
+2014-09-01,300.0,Knotweed (species unknown),6300.0,266358.0
+2014-09-01,10.0,"Tree-of-heaven, Ailanthus",868.0,266368.0
+2014-09-01,30.0,"Tree-of-heaven, Ailanthus",898.0,266398.0
+2014-09-01,30.0,"Tree-of-heaven, Ailanthus",928.0,266428.0
+2014-09-01,6.0,"Tree-of-heaven, Ailanthus",934.0,266434.0
+2014-09-01,30.0,"Tree-of-heaven, Ailanthus",964.0,266464.0
+2014-09-01,20.0,"Tree-of-heaven, Ailanthus",984.0,266484.0
+2014-09-01,30.0,"Tree-of-heaven, Ailanthus",1014.0,266514.0
+2014-09-01,,"Tree-of-heaven, Ailanthus",,
+2014-09-01,10.0,"Tree-of-heaven, Ailanthus",1024.0,266524.0
+2014-09-01,10.0,"Tree-of-heaven, Ailanthus",1034.0,266534.0
+2014-09-01,20.0,"Tree-of-heaven, Ailanthus",1054.0,266554.0
+2014-09-01,3.0,"Tree-of-heaven, Ailanthus",1057.0,266557.0
+2014-09-01,15.0,"Tree-of-heaven, Ailanthus",1072.0,266572.0
+2014-09-01,20.0,"Tree-of-heaven, Ailanthus",1092.0,266592.0
+2014-09-01,5.0,"Tree-of-heaven, Ailanthus",1097.0,266597.0
+2014-09-01,30.0,"Tree-of-heaven, Ailanthus",1127.0,266627.0
+2014-10-01,1000.0,"Common reed grass, phragmites",258350.0,267627.0
+2015-01-31,10000.0,"Common reed grass, phragmites",268350.0,277627.0
+2015-06-01,1000.0,"Common reed grass, phragmites",269350.0,278627.0
+2015-08-01,1000.0,Knotweed (species unknown),7300.0,279627.0
+2015-08-01,10.0,"Tree-of-heaven, Ailanthus",1137.0,279637.0
+2015-09-01,1000.0,Knotweed (species unknown),8300.0,280637.0
+2015-09-01,50.0,"Tree-of-heaven, Ailanthus",1187.0,280687.0
+2015-09-01,100.0,Knotweed (species unknown),8400.0,280787.0
+2015-09-01,10000.0,"Common reed grass, phragmites",279350.0,290787.0
+2015-09-01,1000.0,"Common reed grass, phragmites",280350.0,291787.0
+2015-09-01,30.0,"Tree-of-heaven, Ailanthus",1217.0,291817.0
+2015-09-01,100.0,Knotweed (species unknown),8500.0,291917.0
+2015-09-01,500.0,"Common reed grass, phragmites",280850.0,292417.0
+2015-10-01,3.0,"Tree-of-heaven, Ailanthus",1220.0,292420.0
+2015-10-01,2000.0,"Common reed grass, phragmites",282850.0,294420.0
+2015-10-01,1000.0,"Common reed grass, phragmites",283850.0,295420.0
+2015-10-09,2000.0,"Common reed grass, phragmites",285850.0,297420.0
+2015-11-01,10000.0,"Common reed grass, phragmites",295850.0,307420.0
+2015-11-01,2000.0,"Common reed grass, phragmites",297850.0,309420.0
+2015-11-01,2000.0,"Common reed grass, phragmites",299850.0,311420.0
+2015-11-30,1000.0,"Common reed grass, phragmites",300850.0,312420.0
+2015-11-30,100000.0,"Common reed grass, phragmites",400850.0,412420.0
+2015-11-30,500.0,"Common reed grass, phragmites",401350.0,412920.0
+2015-11-30,300.0,"Common reed grass, phragmites",401650.0,413220.0
+2015-11-30,400.0,"Common reed grass, phragmites",402050.0,413620.0
+2015-11-30,10000.0,"Common reed grass, phragmites",412050.0,423620.0
+2016-04-06,,"Common reed grass, phragmites",,
+2016-08-01,300.0,"Common reed grass, phragmites",412350.0,423920.0
+2016-08-01,6.0,"Tree-of-heaven, Ailanthus",1226.0,423926.0
+2016-08-01,5.0,"Tree-of-heaven, Ailanthus",1231.0,423931.0
+2016-08-01,10.0,"Tree-of-heaven, Ailanthus",1241.0,423941.0
+2016-08-01,50.0,"Tree-of-heaven, Ailanthus",1291.0,423991.0
+2016-08-01,30.0,"Tree-of-heaven, Ailanthus",1321.0,424021.0
+2016-08-01,10000.0,Knotweed (species unknown),18500.0,434021.0
+2016-09-01,10.0,"Tree-of-heaven, Ailanthus",1331.0,434031.0
+2016-09-01,30.0,"Tree-of-heaven, Ailanthus",1361.0,434061.0
+2016-09-01,200.0,Knotweed (species unknown),18700.0,434261.0
+2016-09-01,1000.0,Knotweed (species unknown),19700.0,435261.0
+2016-10-01,400.0,"Common reed grass, phragmites",412750.0,435661.0
+2016-11-01,200.0,Knotweed (species unknown),19900.0,435861.0
+2017-07-01,500.0,Knotweed (species unknown),20400.0,436361.0
+2017-07-01,,"Tree-of-heaven, Ailanthus",,
+2017-07-01,10000.0,"Common reed grass, phragmites",422750.0,446361.0
+2017-07-01,500.0,"Common reed grass, phragmites",423250.0,446861.0
+2017-07-01,300.0,"Common reed grass, phragmites",423550.0,447161.0
+2017-07-01,300.0,"Common reed grass, phragmites",423850.0,447461.0
+2017-07-01,10000.0,"Common reed grass, phragmites",433850.0,457461.0
+2017-07-01,4.0,"Tree-of-heaven, Ailanthus",1365.0,457465.0
+2017-07-01,50.0,"Tree-of-heaven, Ailanthus",1415.0,457515.0
+2017-07-01,1000.0,"Common reed grass, phragmites",434850.0,458515.0
+2017-08-01,300.0,Knotweed (species unknown),20700.0,458815.0
+2017-08-01,1000.0,"Common reed grass, phragmites",435850.0,459815.0
+2017-08-27,,Asian Clam,,
+2017-09-01,200.0,"Common reed grass, phragmites",436050.0,460015.0
+2017-09-01,15.0,"Tree-of-heaven, Ailanthus",1430.0,460030.0
+2017-09-01,400.0,Knotweed (species unknown),21100.0,460430.0
+2017-09-01,100.0,"Common reed grass, phragmites",436150.0,460530.0
+2017-09-01,16.0,"Tree-of-heaven, Ailanthus",1446.0,460546.0
+2017-09-01,300.0,"Common reed grass, phragmites",436450.0,460846.0
+2017-09-01,20.0,"Tree-of-heaven, Ailanthus",1466.0,460866.0
+2017-09-01,20.0,"Tree-of-heaven, Ailanthus",1486.0,460886.0
+2017-09-01,15.0,"Tree-of-heaven, Ailanthus",1501.0,460901.0
+2017-10-01,,Knotweed (species unknown),,
+2017-10-01,10.0,"Tree-of-heaven, Ailanthus",1511.0,460911.0
+2018-05-01,10.0,"Tree-of-heaven, Ailanthus",1521.0,460921.0
+2018-06-01,300.0,Knotweed (species unknown),21400.0,461221.0
+2018-06-01,10.0,"Tree-of-heaven, Ailanthus",1531.0,461231.0
+2018-06-01,20.0,"Tree-of-heaven, Ailanthus",1551.0,461251.0
+2018-07-01,50.0,"Tree-of-heaven, Ailanthus",1601.0,461301.0
+2018-07-01,30.0,"Tree-of-heaven, Ailanthus",1631.0,461331.0
+2018-07-01,2.0,"Tree-of-heaven, Ailanthus",1633.0,461333.0
+2018-07-01,20.0,"Tree-of-heaven, Ailanthus",1653.0,461353.0
+2018-07-01,20.0,"Tree-of-heaven, Ailanthus",1673.0,461373.0
+2018-07-01,30.0,"Tree-of-heaven, Ailanthus",1703.0,461403.0
+2018-07-01,20.0,"Tree-of-heaven, Ailanthus",1723.0,461423.0
+2018-07-01,2000.0,Knotweed (species unknown),23400.0,463423.0
+2018-07-01,1000.0,"Common reed grass, phragmites",437450.0,464423.0
+2018-07-01,,"Tree-of-heaven, Ailanthus",,
+2018-07-01,30.0,Knotweed (species unknown),23430.0,464453.0
+2018-07-01,20.0,"Tree-of-heaven, Ailanthus",1743.0,464473.0
+2018-07-01,200.0,"Common reed grass, phragmites",437650.0,464673.0
+2018-07-01,10.0,"Tree-of-heaven, Ailanthus",1753.0,464683.0
+2018-07-01,30.0,"Tree-of-heaven, Ailanthus",1783.0,464713.0
+2018-07-01,500.0,"Common reed grass, phragmites",438150.0,465213.0
+2018-07-01,200.0,"Common reed grass, phragmites",438350.0,465413.0
+2018-07-01,10.0,"Tree-of-heaven, Ailanthus",1793.0,465423.0
+2018-08-01,100.0,"Common reed grass, phragmites",438450.0,465523.0
+2018-08-01,10000.0,"Common reed grass, phragmites",448450.0,475523.0
+2018-08-01,50.0,"Tree-of-heaven, Ailanthus",1843.0,475573.0
+2018-08-01,200.0,Knotweed (species unknown),23630.0,475773.0
+2018-08-01,10000.0,"Common reed grass, phragmites",458450.0,485773.0
+2018-08-01,10.0,"Tree-of-heaven, Ailanthus",1853.0,485783.0
+2018-08-01,60.0,Purple Loosestrife,1910.0,485843.0
+2018-08-01,10.0,"Tree-of-heaven, Ailanthus",1863.0,485853.0
+2018-08-01,30.0,"Tree-of-heaven, Ailanthus",1893.0,485883.0
+2018-08-01,50.0,"Tree-of-heaven, Ailanthus",1943.0,485933.0
+2018-08-01,10000.0,Knotweed (species unknown),33630.0,495933.0
+2018-08-01,30.0,Purple Loosestrife,1940.0,495963.0
+2018-08-01,6.0,"Tree-of-heaven, Ailanthus",1949.0,495969.0
+2018-08-01,1000.0,Knotweed (species unknown),34630.0,496969.0
+2018-08-01,50.0,Knotweed (species unknown),34680.0,497019.0
+2018-08-01,20.0,"Tree-of-heaven, Ailanthus",1969.0,497039.0
+2018-08-01,30.0,"Tree-of-heaven, Ailanthus",1999.0,497069.0
+2018-08-01,1000.0,Knotweed (species unknown),35680.0,498069.0
+2018-08-01,300.0,"Common reed grass, phragmites",458750.0,498369.0
+2018-08-01,,"Common reed grass, phragmites",,
+2018-08-01,200.0,Knotweed (species unknown),35880.0,498569.0
+2018-08-01,10000.0,"Common reed grass, phragmites",468750.0,508569.0
+2018-08-01,1000.0,"Common reed grass, phragmites",469750.0,509569.0
+2018-08-01,200.0,"Common reed grass, phragmites",469950.0,509769.0
+2018-08-01,,"Common reed grass, phragmites",,
+2018-08-01,50.0,Purple Loosestrife,1990.0,509819.0
+2018-08-01,10.0,"Tree-of-heaven, Ailanthus",2009.0,509829.0
+2018-08-01,50.0,Knotweed (species unknown),35930.0,509879.0
+2018-08-01,1000.0,"Common reed grass, phragmites",470950.0,510879.0
+2018-08-01,500.0,"Common reed grass, phragmites",471450.0,511379.0
+2018-08-01,40.0,Purple Loosestrife,2030.0,511419.0
+2018-08-01,300.0,Knotweed (species unknown),36230.0,511719.0
+2018-08-01,1000.0,Knotweed (species unknown),37230.0,512719.0
+2018-08-01,1000.0,"Common reed grass, phragmites",472450.0,513719.0
+2018-08-01,50.0,Purple Loosestrife,2080.0,513769.0
+2018-08-01,200.0,"Common reed grass, phragmites",472650.0,513969.0
+2018-08-01,15.0,"Tree-of-heaven, Ailanthus",2024.0,513984.0
+2018-08-01,50.0,"Tree-of-heaven, Ailanthus",2074.0,514034.0
+2018-08-01,1000.0,"Common reed grass, phragmites",473650.0,515034.0
+2018-08-01,200.0,Knotweed (species unknown),37430.0,515234.0
+2018-08-01,30.0,"Tree-of-heaven, Ailanthus",2104.0,515264.0
+2018-08-01,500.0,"Common reed grass, phragmites",474150.0,515764.0
+2018-08-01,200.0,"Common reed grass, phragmites",474350.0,515964.0
+2018-08-01,70.0,Purple Loosestrife,2150.0,516034.0
+2018-08-01,1000.0,"Common reed grass, phragmites",475350.0,517034.0
+2018-08-01,,Knotweed (species unknown),,
+2018-08-01,300.0,"Common reed grass, phragmites",475650.0,517334.0
+2018-09-01,10000.0,"Common reed grass, phragmites",485650.0,527334.0
+2018-09-01,1000.0,"Common reed grass, phragmites",486650.0,528334.0
+2018-09-01,200.0,Knotweed (species unknown),37630.0,528534.0
+2018-09-01,100.0,Knotweed (species unknown),37730.0,528634.0
+2018-09-01,30.0,"Tree-of-heaven, Ailanthus",2134.0,528664.0
+2018-09-01,3000.0,"Common reed grass, phragmites",489650.0,531664.0
+2018-09-01,1000.0,Knotweed (species unknown),38730.0,532664.0
+2018-09-01,50.0,Knotweed (species unknown),38780.0,532714.0
+2018-09-01,1000.0,"Common reed grass, phragmites",490650.0,533714.0
+2018-09-01,500.0,Knotweed (species unknown),39280.0,534214.0
+2018-09-01,100.0,Knotweed (species unknown),39380.0,534314.0
+2018-09-01,30.0,"Tree-of-heaven, Ailanthus",2164.0,534344.0
+2018-09-01,100.0,Knotweed (species unknown),39480.0,534444.0
+2018-09-01,10.0,"Tree-of-heaven, Ailanthus",2174.0,534454.0
+2018-09-01,400.0,Knotweed (species unknown),39880.0,534854.0
+2018-09-01,30.0,"Tree-of-heaven, Ailanthus",2204.0,534884.0
+2018-09-01,1000.0,Knotweed (species unknown),40880.0,535884.0
+2018-09-01,1000.0,Knotweed (species unknown),41880.0,536884.0
+2018-09-01,10.0,"Tree-of-heaven, Ailanthus",2214.0,536894.0
+2018-09-01,100.0,Knotweed (species unknown),41980.0,536994.0
+2018-09-01,40.0,Knotweed (species unknown),42020.0,537034.0
+2018-09-01,15.0,"Tree-of-heaven, Ailanthus",2229.0,537049.0
+2018-09-01,300.0,Knotweed (species unknown),42320.0,537349.0
+2018-09-01,20.0,"Tree-of-heaven, Ailanthus",2249.0,537369.0
+2018-09-01,1000.0,Knotweed (species unknown),43320.0,538369.0
+2018-09-01,1000.0,Knotweed (species unknown),44320.0,539369.0
+2018-09-01,400.0,"Common reed grass, phragmites",491050.0,539769.0
+2018-10-01,5000.0,"Common reed grass, phragmites",496050.0,544769.0
+2018-10-01,10000.0,"Common reed grass, phragmites",506050.0,554769.0
+2018-10-01,10000000.0,"Common reed grass, phragmites",10506050.0,10554769.0
+2018-10-01,10000.0,"Common reed grass, phragmites",10516050.0,10564769.0
+2018-10-01,100.0,"Tree-of-heaven, Ailanthus",2349.0,10564869.0
+2018-10-01,100000.0,"Common reed grass, phragmites",10616050.0,10664869.0
+2018-10-01,2000.0,"Common reed grass, phragmites",10618050.0,10666869.0
+2018-10-01,300.0,Knotweed (species unknown),44620.0,10667169.0
+2018-10-01,10000.0,Knotweed (species unknown),54620.0,10677169.0
+2018-10-01,10000000.0,"Common reed grass, phragmites",20618050.0,20677169.0
+2018-10-01,1000.0,"Common reed grass, phragmites",20619050.0,20678169.0
+2018-10-01,10000.0,"Common reed grass, phragmites",20629050.0,20688169.0
+2018-10-01,1000000.0,"Common reed grass, phragmites",21629050.0,21688169.0
+2018-10-01,1000.0,"Common reed grass, phragmites",21630050.0,21689169.0
+2018-10-01,1000.0,"Common reed grass, phragmites",21631050.0,21690169.0
+2018-10-01,1000.0,"Common reed grass, phragmites",21632050.0,21691169.0
+2018-10-01,1000.0,Knotweed (species unknown),55620.0,21692169.0
+2018-10-01,300.0,"Common reed grass, phragmites",21632350.0,21692469.0
+2018-10-01,300.0,"Common reed grass, phragmites",21632650.0,21692769.0
+2018-10-01,1000.0,"Common reed grass, phragmites",21633650.0,21693769.0
+2018-10-01,20.0,"Tree-of-heaven, Ailanthus",2369.0,21693789.0
+2018-10-01,1000000.0,"Common reed grass, phragmites",22633650.0,22693789.0
+2018-10-01,1000.0,"Common reed grass, phragmites",22634650.0,22694789.0
+2018-10-01,1000.0,"Common reed grass, phragmites",22635650.0,22695789.0
+2018-10-01,100.0,"Common reed grass, phragmites",22635750.0,22695889.0
+2018-10-01,10000.0,"Common reed grass, phragmites",22645750.0,22705889.0
+2018-10-01,10000.0,"Common reed grass, phragmites",22655750.0,22715889.0
+2018-11-01,10000.0,"Common reed grass, phragmites",22665750.0,22725889.0
+2018-11-01,10000.0,"Common reed grass, phragmites",22675750.0,22735889.0
+2019-01-07,5.0,"Tree-of-heaven, Ailanthus",2374.0,22735894.0
+2019-05-31,,Common Buckthorn,,
+2019-05-31,,Common Buckthorn,,
+2019-05-31,,Common Buckthorn,,
+2019-06-01,200.0,"Common reed grass, phragmites",22675950.0,22736094.0
+2019-06-04,,Poison-hemlock,,
+2019-06-24,,St. Johnswort,,
+2019-06-24,,Crown Vetch,,
+2019-06-24,,Greater Celandine,,
+2019-06-24,,"Climbing Nightshade, Bittersweet Nightshade",,
+2019-06-24,,"Canada Thistle, Creeping Thistle",,
+2019-06-24,,Garlic Mustard,,
+2019-06-24,,Fullers Teasel,,
+2019-06-24,12.0,"Tree-of-heaven, Ailanthus",2386.0,22736106.0
+2019-06-24,13.0,Plume Poppy,13.0,22736119.0
+2019-06-24,,Dame's Rocket,,
+2019-07-01,1000.0,"Common reed grass, phragmites",22676950.0,22737119.0
+2019-07-01,10000.0,"Common reed grass, phragmites",22686950.0,22747119.0
+2019-07-01,2000.0,"Common reed grass, phragmites",22688950.0,22749119.0
+2019-07-01,100.0,"Common reed grass, phragmites",22689050.0,22749219.0
+2019-07-01,30.0,"Tree-of-heaven, Ailanthus",2416.0,22749249.0
+2019-07-01,500.0,Knotweed (species unknown),56120.0,22749749.0
+2019-07-01,5000.0,"Common reed grass, phragmites",22694050.0,22754749.0
+2019-07-01,10000.0,"Common reed grass, phragmites",22704050.0,22764749.0
+2019-07-01,1000.0,"Common reed grass, phragmites",22705050.0,22765749.0
+2019-07-01,10000.0,"Common reed grass, phragmites",22715050.0,22775749.0
+2019-07-01,300.0,"Common reed grass, phragmites",22715350.0,22776049.0
+2019-07-01,1000.0,"Common reed grass, phragmites",22716350.0,22777049.0
+2019-07-01,10.0,"Tree-of-heaven, Ailanthus",2426.0,22777059.0
+2019-07-01,10.0,"Tree-of-heaven, Ailanthus",2436.0,22777069.0
+2019-07-01,200.0,"Common reed grass, phragmites",22716550.0,22777269.0
+2019-07-01,2000.0,"Common reed grass, phragmites",22718550.0,22779269.0
+2019-07-01,10000.0,"Common reed grass, phragmites",22728550.0,22789269.0
+2019-07-01,20000.0,"Common reed grass, phragmites",22748550.0,22809269.0
+2019-07-01,1000.0,"Common reed grass, phragmites",22749550.0,22810269.0
+2019-07-01,2000.0,"Common reed grass, phragmites",22751550.0,22812269.0
+2019-07-01,10000.0,"Common reed grass, phragmites",22761550.0,22822269.0
+2019-07-01,10000.0,"Common reed grass, phragmites",22771550.0,22832269.0
+2019-07-01,1000.0,"Common reed grass, phragmites",22772550.0,22833269.0
+2019-07-01,1000.0,"Common reed grass, phragmites",22773550.0,22834269.0
+2019-07-01,500.0,"Common reed grass, phragmites",22774050.0,22834769.0
+2019-07-01,10000.0,"Common reed grass, phragmites",22784050.0,22844769.0
+2019-07-01,10000.0,"Common reed grass, phragmites",22794050.0,22854769.0
+2019-07-01,10000.0,"Common reed grass, phragmites",22804050.0,22864769.0
+2019-07-01,100.0,"Tree-of-heaven, Ailanthus",2536.0,22864869.0
+2019-07-01,1000.0,Knotweed (species unknown),57120.0,22865869.0
+2019-07-01,1000.0,"Common reed grass, phragmites",22805050.0,22866869.0
+2019-07-01,1000.0,Knotweed (species unknown),58120.0,22867869.0
+2019-07-01,60.0,"Tree-of-heaven, Ailanthus",2596.0,22867929.0
+2019-07-01,10000.0,"Common reed grass, phragmites",22815050.0,22877929.0
+2019-07-01,1000.0,Knotweed (species unknown),59120.0,22878929.0
+2019-07-01,10000.0,"Common reed grass, phragmites",22825050.0,22888929.0
+2019-07-01,300.0,"Common reed grass, phragmites",22825350.0,22889229.0
+2019-07-01,500.0,Knotweed (species unknown),59620.0,22889729.0
+2019-07-01,1000.0,"Common reed grass, phragmites",22826350.0,22890729.0
+2019-07-01,10000.0,"Common reed grass, phragmites",22836350.0,22900729.0
+2019-07-01,500.0,"Common reed grass, phragmites",22836850.0,22901229.0
+2019-07-01,20.0,"Tree-of-heaven, Ailanthus",2616.0,22901249.0
+2019-07-01,500.0,"Common reed grass, phragmites",22837350.0,22901749.0
+2019-07-01,100000.0,"Common reed grass, phragmites",22937350.0,23001749.0
+2019-07-01,500.0,Knotweed (species unknown),60120.0,23002249.0
+2019-07-01,10000.0,"Common reed grass, phragmites",22947350.0,23012249.0
+2019-07-01,500.0,Knotweed (species unknown),60620.0,23012749.0
+2019-07-01,1000000.0,"Common reed grass, phragmites",23947350.0,24012749.0
+2019-07-01,300.0,"Common reed grass, phragmites",23947650.0,24013049.0
+2019-07-01,10000.0,"Common reed grass, phragmites",23957650.0,24023049.0
+2019-07-01,500.0,"Common reed grass, phragmites",23958150.0,24023549.0
+2019-07-01,200.0,"Common reed grass, phragmites",23958350.0,24023749.0
+2019-07-01,1000.0,"Common reed grass, phragmites",23959350.0,24024749.0
+2019-07-01,100.0,"Common reed grass, phragmites",23959450.0,24024849.0
+2019-07-01,30.0,"Tree-of-heaven, Ailanthus",2646.0,24024879.0
+2019-07-01,5000.0,"Common reed grass, phragmites",23964450.0,24029879.0
+2019-07-01,2000.0,"Common reed grass, phragmites",23966450.0,24031879.0
+2019-07-01,2000.0,"Common reed grass, phragmites",23968450.0,24033879.0
+2019-07-01,500.0,"Common reed grass, phragmites",23968950.0,24034379.0
+2019-07-01,2000.0,"Common reed grass, phragmites",23970950.0,24036379.0
+2019-07-16,,"Japanese Knotweed, Japanese Bamboo",,
+2019-07-18,,Oriental Bittersweet,,
+2019-07-18,,Oriental Bittersweet,,
+2019-08-01,100000.0,"Common reed grass, phragmites",24070950.0,24136379.0
+2019-08-01,1000.0,"Common reed grass, phragmites",24071950.0,24137379.0
+2019-08-01,1000000.0,"Common reed grass, phragmites",25071950.0,25137379.0
+2019-08-01,10000.0,"Common reed grass, phragmites",25081950.0,25147379.0
+2019-08-01,50.0,Purple Loosestrife,2200.0,25147429.0
+2019-08-01,100.0,"Common reed grass, phragmites",25082050.0,25147529.0
+2019-08-01,40.0,"Tree-of-heaven, Ailanthus",2686.0,25147569.0
+2019-08-01,10000.0,"Common reed grass, phragmites",25092050.0,25157569.0
+2019-08-01,50.0,Purple Loosestrife,2250.0,25157619.0
+2019-08-01,1000.0,"Common reed grass, phragmites",25093050.0,25158619.0
+2019-08-01,1000.0,"Common reed grass, phragmites",25094050.0,25159619.0
+2019-08-01,1000.0,"Common reed grass, phragmites",25095050.0,25160619.0
+2019-08-01,10000.0,Knotweed (species unknown),70620.0,25170619.0
+2019-08-01,1100.0,"Common reed grass, phragmites",25096150.0,25171719.0
+2019-08-01,10.0,Purple Loosestrife,2260.0,25171729.0
+2019-08-01,10.0,"Tree-of-heaven, Ailanthus",2696.0,25171739.0
+2019-08-01,50.0,Purple Loosestrife,2310.0,25171789.0
+2019-08-01,100.0,Knotweed (species unknown),70720.0,25171889.0
+2019-08-01,1000000.0,"Common reed grass, phragmites",26096150.0,26171889.0
+2019-08-01,1000.0,Purple Loosestrife,3310.0,26172889.0
+2019-08-01,500.0,"Common reed grass, phragmites",26096650.0,26173389.0
+2019-08-01,500.0,"Common reed grass, phragmites",26097150.0,26173889.0
+2019-08-01,3.0,"Tree-of-heaven, Ailanthus",2699.0,26173892.0
+2019-08-01,10000.0,"Common reed grass, phragmites",26107150.0,26183892.0
+2019-08-01,15.0,"Tree-of-heaven, Ailanthus",2714.0,26183907.0
+2019-08-01,30.0,"Tree-of-heaven, Ailanthus",2744.0,26183937.0
+2019-08-01,100.0,"Common reed grass, phragmites",26107250.0,26184037.0
+2019-08-01,300.0,"Common reed grass, phragmites",26107550.0,26184337.0
+2019-08-01,50.0,"Tree-of-heaven, Ailanthus",2794.0,26184387.0
+2019-08-01,1000.0,"Common reed grass, phragmites",26108550.0,26185387.0
+2019-08-01,10000.0,"Common reed grass, phragmites",26118550.0,26195387.0
+2019-08-01,1000.0,"Common reed grass, phragmites",26119550.0,26196387.0
+2019-08-01,10.0,"Tree-of-heaven, Ailanthus",2804.0,26196397.0
+2019-08-01,100.0,Knotweed (species unknown),70820.0,26196497.0
+2019-08-01,30.0,"Tree-of-heaven, Ailanthus",2834.0,26196527.0
+2019-08-01,100.0,"Common reed grass, phragmites",26119650.0,26196627.0
+2019-08-01,6.0,"Tree-of-heaven, Ailanthus",2840.0,26196633.0
+2019-08-01,10.0,"Tree-of-heaven, Ailanthus",2850.0,26196643.0
+2019-08-01,1000.0,"Common reed grass, phragmites",26120650.0,26197643.0
+2019-08-01,10000.0,"Common reed grass, phragmites",26130650.0,26207643.0
+2019-08-01,6.0,"Tree-of-heaven, Ailanthus",2856.0,26207649.0
+2019-08-01,100000.0,"Common reed grass, phragmites",26230650.0,26307649.0
+2019-08-01,6.0,"Tree-of-heaven, Ailanthus",2862.0,26307655.0
+2019-08-01,200.0,"Tree-of-heaven, Ailanthus",3062.0,26307855.0
+2019-08-01,5000.0,"Common reed grass, phragmites",26235650.0,26312855.0
+2019-08-01,10000.0,"Common reed grass, phragmites",26245650.0,26322855.0
+2019-08-01,1000.0,Purple Loosestrife,4310.0,26323855.0
+2019-08-01,10.0,"Tree-of-heaven, Ailanthus",3072.0,26323865.0
+2019-08-01,300.0,"Common reed grass, phragmites",26245950.0,26324165.0
+2019-08-01,500.0,"Common reed grass, phragmites",26246450.0,26324665.0
+2019-08-01,50.0,"Tree-of-heaven, Ailanthus",3122.0,26324715.0
+2019-08-01,1000.0,"Common reed grass, phragmites",26247450.0,26325715.0
+2019-08-01,100000.0,"Common reed grass, phragmites",26347450.0,26425715.0
+2019-08-01,20.0,"Tree-of-heaven, Ailanthus",3142.0,26425735.0
+2019-08-01,10000.0,"Common reed grass, phragmites",26357450.0,26435735.0
+2019-08-01,1000.0,"Common reed grass, phragmites",26358450.0,26436735.0
+2019-08-01,10.0,"Tree-of-heaven, Ailanthus",3152.0,26436745.0
+2019-08-01,5.0,Purple Loosestrife,4315.0,26436750.0
+2019-08-01,5.0,"Tree-of-heaven, Ailanthus",3157.0,26436755.0
+2019-08-01,200.0,"Common reed grass, phragmites",26358650.0,26436955.0
+2019-08-01,500.0,"Common reed grass, phragmites",26359150.0,26437455.0
+2019-08-01,1000.0,"Common reed grass, phragmites",26360150.0,26438455.0
+2019-08-01,300.0,"Common reed grass, phragmites",26360450.0,26438755.0
+2019-08-01,30.0,"Tree-of-heaven, Ailanthus",3187.0,26438785.0
+2019-08-01,30.0,"Tree-of-heaven, Ailanthus",3217.0,26438815.0
+2019-08-01,20.0,"Tree-of-heaven, Ailanthus",3237.0,26438835.0
+2019-08-01,40.0,Purple Loosestrife,4355.0,26438875.0
+2019-08-01,500.0,"Common reed grass, phragmites",26360950.0,26439375.0
+2019-08-01,20.0,"Tree-of-heaven, Ailanthus",3257.0,26439395.0
+2019-08-01,10000.0,"Common reed grass, phragmites",26370950.0,26449395.0
+2019-08-01,,"Tree-of-heaven, Ailanthus",,
+2019-08-01,10000.0,"Common reed grass, phragmites",26380950.0,26459395.0
+2019-08-01,20.0,"Tree-of-heaven, Ailanthus",3277.0,26459415.0
+2019-08-01,15.0,"Tree-of-heaven, Ailanthus",3292.0,26459430.0
+2019-08-01,5.0,"Tree-of-heaven, Ailanthus",3297.0,26459435.0
+2019-08-01,2000.0,"Common reed grass, phragmites",26382950.0,26461435.0
+2019-08-01,10000.0,"Common reed grass, phragmites",26392950.0,26471435.0
+2019-08-01,300.0,Knotweed (species unknown),71120.0,26471735.0
+2019-08-01,1000.0,"Common reed grass, phragmites",26393950.0,26472735.0
+2019-08-01,400.0,Knotweed (species unknown),71520.0,26473135.0
+2019-08-01,100.0,Purple Loosestrife,4455.0,26473235.0
+2019-08-01,10000.0,"Common reed grass, phragmites",26403950.0,26483235.0
+2019-08-01,10000.0,"Common reed grass, phragmites",26413950.0,26493235.0
+2019-08-01,10.0,"Tree-of-heaven, Ailanthus",3307.0,26493245.0
+2019-08-01,10000.0,"Common reed grass, phragmites",26423950.0,26503245.0
+2019-08-01,1000000.0,"Common reed grass, phragmites",27423950.0,27503245.0
+2019-08-01,100.0,"Tree-of-heaven, Ailanthus",3407.0,27503345.0
+2019-08-01,20.0,"Tree-of-heaven, Ailanthus",3427.0,27503365.0
+2019-08-01,30.0,"Tree-of-heaven, Ailanthus",3457.0,27503395.0
+2019-08-01,10000.0,"Common reed grass, phragmites",27433950.0,27513395.0
+2019-08-01,,Purple Loosestrife,,
+2019-08-01,10000.0,Knotweed (species unknown),81520.0,27523395.0
+2019-08-01,50000.0,"Common reed grass, phragmites",27483950.0,27573395.0
+2019-08-01,600.0,"Common reed grass, phragmites",27484550.0,27573995.0
+2019-08-01,40.0,"Tree-of-heaven, Ailanthus",3497.0,27574035.0
+2019-08-01,1000.0,"Common reed grass, phragmites",27485550.0,27575035.0
+2019-08-01,10000.0,"Common reed grass, phragmites",27495550.0,27585035.0
+2019-08-01,5.0,"Tree-of-heaven, Ailanthus",3502.0,27585040.0
+2019-08-01,,"Common reed grass, phragmites",,
+2019-08-01,100.0,"Tree-of-heaven, Ailanthus",3602.0,27585140.0
+2019-08-01,99.0,"Tree-of-heaven, Ailanthus",3701.0,27585239.0
+2019-08-01,100000.0,"Common reed grass, phragmites",27595550.0,27685239.0
+2019-08-01,10000.0,"Common reed grass, phragmites",27605550.0,27695239.0
+2019-08-01,30.0,"Tree-of-heaven, Ailanthus",3731.0,27695269.0
+2019-08-01,10.0,"Tree-of-heaven, Ailanthus",3741.0,27695279.0
+2019-08-01,200.0,"Common reed grass, phragmites",27605750.0,27695479.0
+2019-08-01,,"Tree-of-heaven, Ailanthus",,
+2019-08-01,100000.0,"Common reed grass, phragmites",27705750.0,27795479.0
+2019-08-01,30.0,"Tree-of-heaven, Ailanthus",3771.0,27795509.0
+2019-08-01,1000.0,"Common reed grass, phragmites",27706750.0,27796509.0
+2019-08-01,500.0,"Common reed grass, phragmites",27707250.0,27797009.0
+2019-08-01,10.0,"Tree-of-heaven, Ailanthus",3781.0,27797019.0
+2019-08-01,70.0,"Common reed grass, phragmites",27707320.0,27797089.0
+2019-08-01,100.0,Knotweed (species unknown),81620.0,27797189.0
+2019-08-01,10.0,"Tree-of-heaven, Ailanthus",3791.0,27797199.0
+2019-08-01,10000.0,"Common reed grass, phragmites",27717320.0,27807199.0
+2019-08-01,1000.0,"Common reed grass, phragmites",27718320.0,27808199.0
+2019-08-01,50.0,"Japanese Knotweed, Japanese Bamboo",50.0,27808249.0
+2019-08-01,6.0,"Tree-of-heaven, Ailanthus",3797.0,27808255.0
+2019-08-01,1000000.0,"Common reed grass, phragmites",28718320.0,28808255.0
+2019-08-01,1000.0,"Common reed grass, phragmites",28719320.0,28809255.0
+2019-08-01,10000.0,"Common reed grass, phragmites",28729320.0,28819255.0
+2019-08-01,8.0,"Tree-of-heaven, Ailanthus",3805.0,28819263.0
+2019-08-01,100.0,"Common reed grass, phragmites",28729420.0,28819363.0
+2019-08-01,200.0,Purple Loosestrife,4655.0,28819563.0
+2019-08-07,1000000.0,"Common reed grass, phragmites",29729420.0,29819563.0
+2019-08-08,,Flowering rush,,
+2019-08-08,,Pale Swallowwort,,
+2019-08-08,,Black Swallowwort,,
+2019-08-08,,Pale Swallowwort,,
+2019-08-11,,Garlic Mustard,,
+2019-08-11,,Swallowwort (species unknown),,
+2019-08-28,,Japanese Stiltgrass,,
+2019-09-01,200.0,"Common reed grass, phragmites",29729620.0,29819763.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",3815.0,29819773.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",3835.0,29819793.0
+2019-09-01,2.0,"Tree-of-heaven, Ailanthus",3837.0,29819795.0
+2019-09-01,3.0,"Tree-of-heaven, Ailanthus",3840.0,29819798.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",3870.0,29819828.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",3920.0,29819878.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",3930.0,29819888.0
+2019-09-01,50.0,Knotweed (species unknown),81670.0,29819938.0
+2019-09-01,20.0,Purple Loosestrife,4675.0,29819958.0
+2019-09-01,500.0,Knotweed (species unknown),82170.0,29820458.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",3950.0,29820478.0
+2019-09-01,40.0,"Tree-of-heaven, Ailanthus",3990.0,29820518.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",4000.0,29820528.0
+2019-09-01,5.0,"Tree-of-heaven, Ailanthus",4005.0,29820533.0
+2019-09-01,100.0,"Tree-of-heaven, Ailanthus",4105.0,29820633.0
+2019-09-01,15.0,"Tree-of-heaven, Ailanthus",4120.0,29820648.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",4140.0,29820668.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",4160.0,29820688.0
+2019-09-01,400.0,"Common reed grass, phragmites",29730020.0,29821088.0
+2019-09-01,15.0,"Tree-of-heaven, Ailanthus",4175.0,29821103.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",4185.0,29821113.0
+2019-09-01,500.0,"Common reed grass, phragmites",29730520.0,29821613.0
+2019-09-01,500.0,"Common reed grass, phragmites",29731020.0,29822113.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",4195.0,29822123.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",4215.0,29822143.0
+2019-09-01,15.0,"Tree-of-heaven, Ailanthus",4230.0,29822158.0
+2019-09-01,60.0,"Tree-of-heaven, Ailanthus",4290.0,29822218.0
+2019-09-01,2000.0,"Common reed grass, phragmites",29733020.0,29824218.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",4300.0,29824228.0
+2019-09-01,10000.0,"Common reed grass, phragmites",29743020.0,29834228.0
+2019-09-01,500.0,"Common reed grass, phragmites",29743520.0,29834728.0
+2019-09-01,1000.0,"Common reed grass, phragmites",29744520.0,29835728.0
+2019-09-01,300.0,"Common reed grass, phragmites",29744820.0,29836028.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",4310.0,29836038.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",4340.0,29836068.0
+2019-09-01,40.0,"Tree-of-heaven, Ailanthus",4380.0,29836108.0
+2019-09-01,200.0,"Common reed grass, phragmites",29745020.0,29836308.0
+2019-09-01,3.0,"Tree-of-heaven, Ailanthus",4383.0,29836311.0
+2019-09-01,100.0,"Tree-of-heaven, Ailanthus",4483.0,29836411.0
+2019-09-01,2000.0,"Common reed grass, phragmites",29747020.0,29838411.0
+2019-09-01,30.0,Purple Loosestrife,4705.0,29838441.0
+2019-09-01,10000.0,"Common reed grass, phragmites",29757020.0,29848441.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",4513.0,29848471.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",4563.0,29848521.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",4613.0,29848571.0
+2019-09-01,50.0,Knotweed (species unknown),82220.0,29848621.0
+2019-09-01,1000.0,"Common reed grass, phragmites",29758020.0,29849621.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",4623.0,29849631.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",4643.0,29849651.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",4693.0,29849701.0
+2019-09-01,100.0,Knotweed (species unknown),82320.0,29849801.0
+2019-09-01,1000.0,"Common reed grass, phragmites",29759020.0,29850801.0
+2019-09-01,100.0,Knotweed (species unknown),82420.0,29850901.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",4703.0,29850911.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",4753.0,29850961.0
+2019-09-01,300.0,"Common reed grass, phragmites",29759320.0,29851261.0
+2019-09-01,100.0,"Tree-of-heaven, Ailanthus",4853.0,29851361.0
+2019-09-01,10000.0,"Common reed grass, phragmites",29769320.0,29861361.0
+2019-09-01,100.0,"Common reed grass, phragmites",29769420.0,29861461.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",4903.0,29861511.0
+2019-09-01,100.0,Knotweed (species unknown),82520.0,29861611.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",4953.0,29861661.0
+2019-09-01,200.0,Knotweed (species unknown),82720.0,29861861.0
+2019-09-01,50.0,Knotweed (species unknown),82770.0,29861911.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",5003.0,29861961.0
+2019-09-01,300.0,"Common reed grass, phragmites",29769720.0,29862261.0
+2019-09-01,6.0,"Tree-of-heaven, Ailanthus",5009.0,29862267.0
+2019-09-01,10000.0,"Common reed grass, phragmites",29779720.0,29872267.0
+2019-09-01,1000.0,"Common reed grass, phragmites",29780720.0,29873267.0
+2019-09-01,10000.0,"Common reed grass, phragmites",29790720.0,29883267.0
+2019-09-01,200.0,Knotweed (species unknown),82970.0,29883467.0
+2019-09-01,300.0,"Common reed grass, phragmites",29791020.0,29883767.0
+2019-09-01,10000.0,"Common reed grass, phragmites",29801020.0,29893767.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",5039.0,29893797.0
+2019-09-01,100.0,"Tree-of-heaven, Ailanthus",5139.0,29893897.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",5189.0,29893947.0
+2019-09-01,300.0,"Common reed grass, phragmites",29801320.0,29894247.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",5219.0,29894277.0
+2019-09-01,10000.0,"Common reed grass, phragmites",29811320.0,29904277.0
+2019-09-01,15.0,"Tree-of-heaven, Ailanthus",5234.0,29904292.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",5254.0,29904312.0
+2019-09-01,7.0,"Tree-of-heaven, Ailanthus",5261.0,29904319.0
+2019-09-01,100.0,"Tree-of-heaven, Ailanthus",5361.0,29904419.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",5391.0,29904449.0
+2019-09-01,200.0,"Japanese Knotweed, Japanese Bamboo",250.0,29904649.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",5421.0,29904679.0
+2019-09-01,100.0,"Tree-of-heaven, Ailanthus",5521.0,29904779.0
+2019-09-01,300.0,"Common reed grass, phragmites",29811620.0,29905079.0
+2019-09-01,40.0,"Tree-of-heaven, Ailanthus",5561.0,29905119.0
+2019-09-01,15.0,"Tree-of-heaven, Ailanthus",5576.0,29905134.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",5626.0,29905184.0
+2019-09-01,100.0,Knotweed (species unknown),83070.0,29905284.0
+2019-09-01,100.0,Knotweed (species unknown),83170.0,29905384.0
+2019-09-01,300.0,"Common reed grass, phragmites",29811920.0,29905684.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",5636.0,29905694.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",5686.0,29905744.0
+2019-09-01,100.0,"Tree-of-heaven, Ailanthus",5786.0,29905844.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",5796.0,29905854.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",5826.0,29905884.0
+2019-09-01,50.0,Japanese Angelica Tree,50.0,29905934.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",5836.0,29905944.0
+2019-09-01,500.0,"Common reed grass, phragmites",29812420.0,29906444.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",5846.0,29906454.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",5876.0,29906484.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",5886.0,29906494.0
+2019-09-01,300.0,"Common reed grass, phragmites",29812720.0,29906794.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",5936.0,29906844.0
+2019-09-01,40.0,Knotweed (species unknown),83210.0,29906884.0
+2019-09-01,40.0,"Tree-of-heaven, Ailanthus",5976.0,29906924.0
+2019-09-01,400.0,"Common reed grass, phragmites",29813120.0,29907324.0
+2019-09-01,100.0,Knotweed (species unknown),83310.0,29907424.0
+2019-09-01,4.0,"Tree-of-heaven, Ailanthus",5980.0,29907428.0
+2019-09-01,1000.0,"Common reed grass, phragmites",29814120.0,29908428.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",6000.0,29908448.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",6020.0,29908468.0
+2019-09-01,10000.0,"Common reed grass, phragmites",29824120.0,29918468.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",6070.0,29918518.0
+2019-09-01,100.0,Knotweed (species unknown),83410.0,29918618.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",6100.0,29918648.0
+2019-09-01,10000.0,"Common reed grass, phragmites",29834120.0,29928648.0
+2019-09-01,300.0,"Common reed grass, phragmites",29834420.0,29928948.0
+2019-09-01,15.0,"Tree-of-heaven, Ailanthus",6115.0,29928963.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",6135.0,29928983.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",6155.0,29929003.0
+2019-09-01,100000.0,Knotweed (species unknown),183410.0,30029003.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",6175.0,30029023.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",6185.0,30029033.0
+2019-09-01,15.0,"Tree-of-heaven, Ailanthus",6200.0,30029048.0
+2019-09-01,2000.0,"Common reed grass, phragmites",29836420.0,30031048.0
+2019-09-01,100.0,"Tree-of-heaven, Ailanthus",6300.0,30031148.0
+2019-09-01,500.0,"Common reed grass, phragmites",29836920.0,30031648.0
+2019-09-01,10000.0,"Common reed grass, phragmites",29846920.0,30041648.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",6320.0,30041668.0
+2019-09-01,1000.0,"Common reed grass, phragmites",29847920.0,30042668.0
+2019-09-01,11.0,"Tree-of-heaven, Ailanthus",6331.0,30042679.0
+2019-09-01,15.0,"Tree-of-heaven, Ailanthus",6346.0,30042694.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",6396.0,30042744.0
+2019-09-01,1000.0,"Common reed grass, phragmites",29848920.0,30043744.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",6416.0,30043764.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",6466.0,30043814.0
+2019-09-01,300.0,"Common reed grass, phragmites",29849220.0,30044114.0
+2019-09-01,10000000.0,"Common reed grass, phragmites",39849220.0,40044114.0
+2019-09-01,5.0,"Tree-of-heaven, Ailanthus",6471.0,40044119.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",6501.0,40044149.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",6551.0,40044199.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",6601.0,40044249.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",6621.0,40044269.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",6651.0,40044299.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",6671.0,40044319.0
+2019-09-01,400.0,"Common reed grass, phragmites",39849620.0,40044719.0
+2019-09-01,50.0,"Tree-of-heaven, Ailanthus",6721.0,40044769.0
+2019-09-01,1000.0,"Common reed grass, phragmites",39850620.0,40045769.0
+2019-09-01,300.0,"Common reed grass, phragmites",39850920.0,40046069.0
+2019-09-01,300.0,"Common reed grass, phragmites",39851220.0,40046369.0
+2019-09-01,100.0,Knotweed (species unknown),183510.0,40046469.0
+2019-09-01,300.0,Knotweed (species unknown),183810.0,40046769.0
+2019-09-01,10000.0,"Common reed grass, phragmites",39861220.0,40056769.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",6751.0,40056799.0
+2019-09-01,100.0,"Tree-of-heaven, Ailanthus",6851.0,40056899.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",6871.0,40056919.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",6891.0,40056939.0
+2019-09-01,10.0,"Tree-of-heaven, Ailanthus",6901.0,40056949.0
+2019-09-01,300.0,"Common reed grass, phragmites",39861520.0,40057249.0
+2019-09-01,1000000.0,"Common reed grass, phragmites",40861520.0,41057249.0
+2019-09-01,400.0,"Common reed grass, phragmites",40861920.0,41057649.0
+2019-09-01,20.0,"Tree-of-heaven, Ailanthus",6921.0,41057669.0
+2019-09-01,30.0,"Tree-of-heaven, Ailanthus",6951.0,41057699.0
+2019-09-01,1000.0,"Japanese Knotweed, Japanese Bamboo",1250.0,41058699.0
+2019-09-01,1000.0,"Common reed grass, phragmites",40862920.0,41059699.0
+2019-09-01,200.0,"Common reed grass, phragmites",40863120.0,41059899.0
+2019-09-15,,Slender Falsebrome,,
+2019-09-26,,Japanese Stiltgrass,,
+2019-09-29,100000.0,"Common reed grass, phragmites",40963120.0,41159899.0
+2019-10-01,20.0,"Tree-of-heaven, Ailanthus",6971.0,41159919.0
+2019-10-01,1000.0,"Common reed grass, phragmites",40964120.0,41160919.0
+2019-10-01,1000.0,"Common reed grass, phragmites",40965120.0,41161919.0
+2019-10-01,100000.0,"Common reed grass, phragmites",41065120.0,41261919.0
+2019-10-01,30.0,"Tree-of-heaven, Ailanthus",7001.0,41261949.0
+2019-10-01,15.0,"Tree-of-heaven, Ailanthus",7016.0,41261964.0
+2019-10-01,1000.0,"Common reed grass, phragmites",41066120.0,41262964.0
+2019-10-01,1100.0,"Common reed grass, phragmites",41067220.0,41264064.0
+2019-10-01,50.0,"Tree-of-heaven, Ailanthus",7066.0,41264114.0
+2019-10-01,10.0,"Tree-of-heaven, Ailanthus",7076.0,41264124.0
+2019-10-01,20.0,"Tree-of-heaven, Ailanthus",7096.0,41264144.0
+2019-10-01,200.0,"Common reed grass, phragmites",41067420.0,41264344.0
+2019-10-01,100000.0,"Common reed grass, phragmites",41167420.0,41364344.0
+2019-10-01,10.0,"Tree-of-heaven, Ailanthus",7106.0,41364354.0
+2019-10-01,,Crown Vetch,,
+2019-10-01,300.0,"Common reed grass, phragmites",41167720.0,41364654.0
+2019-10-01,50.0,"Common reed grass, phragmites",41167770.0,41364704.0
+2019-10-01,10000.0,"Common reed grass, phragmites",41177770.0,41374704.0
+2019-10-01,500.0,"Common reed grass, phragmites",41178270.0,41375204.0
+2019-10-01,20.0,"Tree-of-heaven, Ailanthus",7126.0,41375224.0
+2019-10-01,100.0,Knotweed (species unknown),183910.0,41375324.0
+2019-10-01,100.0,Knotweed (species unknown),184010.0,41375424.0
+2019-10-01,3000.0,"Common reed grass, phragmites",41181270.0,41378424.0
+2019-10-01,1000.0,"Common reed grass, phragmites",41182270.0,41379424.0
+2019-10-01,10000.0,"Common reed grass, phragmites",41192270.0,41389424.0
+2019-10-01,50.0,"Tree-of-heaven, Ailanthus",7176.0,41389474.0
+2019-10-01,20.0,Knotweed (species unknown),184030.0,41389494.0
+2019-10-01,1000.0,"Common reed grass, phragmites",41193270.0,41390494.0
+2019-10-01,,"Common reed grass, phragmites",,
+2019-10-01,100.0,"Common reed grass, phragmites",41193370.0,41390594.0
+2019-10-01,500.0,Knotweed (species unknown),184530.0,41391094.0
+2019-10-01,10.0,"Tree-of-heaven, Ailanthus",7186.0,41391104.0
+2019-10-01,100.0,"Tree-of-heaven, Ailanthus",7286.0,41391204.0
+2019-10-01,,"Tree-of-heaven, Ailanthus",,
+2019-10-01,10000.0,"Common reed grass, phragmites",41203370.0,41401204.0
+2019-10-01,500.0,"Common reed grass, phragmites",41203870.0,41401704.0
+2019-10-01,10000.0,Knotweed (species unknown),194530.0,41411704.0
+2019-10-01,,"Common reed grass, phragmites",,
+2019-10-01,5.0,"Tree-of-heaven, Ailanthus",7291.0,41411709.0
+2019-10-01,1000.0,"Common reed grass, phragmites",41204870.0,41412709.0
+2019-10-01,,"Common reed grass, phragmites",,
+2019-10-01,50.0,"Tree-of-heaven, Ailanthus",7341.0,41412759.0
+2019-10-01,30.0,"Tree-of-heaven, Ailanthus",7371.0,41412789.0
+2019-10-01,,"Common reed grass, phragmites",,
+2019-10-01,500.0,"Common reed grass, phragmites",41205370.0,41413289.0
+2019-10-01,100.0,"Common reed grass, phragmites",41205470.0,41413389.0
+2019-10-01,6.0,"Tree-of-heaven, Ailanthus",7377.0,41413395.0
+2019-10-01,2.0,"Tree-of-heaven, Ailanthus",7379.0,41413397.0
+2019-10-01,300.0,"Common reed grass, phragmites",41205770.0,41413697.0
+2019-10-01,1000.0,"Common reed grass, phragmites",41206770.0,41414697.0
+2019-10-01,500.0,"Common reed grass, phragmites",41207270.0,41415197.0
+2019-10-01,10000.0,"Common reed grass, phragmites",41217270.0,41425197.0
+2019-10-01,10000.0,"Common reed grass, phragmites",41227270.0,41435197.0
+2019-10-01,300.0,"Common reed grass, phragmites",41227570.0,41435497.0
+2019-10-01,1000.0,Knotweed (species unknown),195530.0,41436497.0
+2019-10-01,9000000.0,"Common reed grass, phragmites",50227570.0,50436497.0
+2019-10-01,30.0,"Tree-of-heaven, Ailanthus",7409.0,50436527.0
+2019-10-08,,Japanese Stiltgrass,,
+2019-10-20,,Japanese Stiltgrass,,
+2019-10-20,,Japanese Stiltgrass,,
+2019-11-01,3000.0,"Common reed grass, phragmites",50230570.0,50439527.0
+2019-11-01,2000.0,"Common reed grass, phragmites",50232570.0,50441527.0
+2019-11-01,2000.0,"Common reed grass, phragmites",50234570.0,50443527.0
+2019-11-01,500.0,"Common reed grass, phragmites",50235070.0,50444027.0
+2019-11-01,200.0,"Common reed grass, phragmites",50235270.0,50444227.0
+2019-11-01,500.0,"Common reed grass, phragmites",50235770.0,50444727.0
+2019-11-01,10000.0,"Common reed grass, phragmites",50245770.0,50454727.0
+2019-11-01,1000.0,"Common reed grass, phragmites",50246770.0,50455727.0
+2019-11-01,500.0,Knotweed (species unknown),196030.0,50456227.0
+2019-11-01,10000.0,"Common reed grass, phragmites",50256770.0,50466227.0
+2019-11-01,2000.0,"Common reed grass, phragmites",50258770.0,50468227.0
+2019-11-01,1000.0,"Common reed grass, phragmites",50259770.0,50469227.0
+2019-11-29,1000.0,"Common reed grass, phragmites",50260770.0,50470227.0
+2019-11-29,200.0,"Common reed grass, phragmites",50260970.0,50470427.0
+2019-12-08,20.0,"Tree-of-heaven, Ailanthus",7429.0,50470447.0
+2019-12-09,12000.0,"Common reed grass, phragmites",50272970.0,50482447.0
+2019-12-09,1000.0,"Common reed grass, phragmites",50273970.0,50483447.0
+2019-12-09,10000.0,"Common reed grass, phragmites",50283970.0,50493447.0
+2019-12-09,5.0,"Tree-of-heaven, Ailanthus",7434.0,50493452.0
+2019-12-09,10.0,"Tree-of-heaven, Ailanthus",7444.0,50493462.0
+2019-12-10,100000.0,"Common reed grass, phragmites",50383970.0,50593462.0
+2019-12-10,10000.0,"Common reed grass, phragmites",50393970.0,50603462.0
+2019-12-10,5.0,"Tree-of-heaven, Ailanthus",7449.0,50603467.0
+2019-12-10,1000.0,"Common reed grass, phragmites",50394970.0,50604467.0
+2019-12-10,100000.0,"Common reed grass, phragmites",50494970.0,50704467.0
+2019-12-10,100.0,Knotweed (species unknown),196130.0,50704567.0
+2019-12-10,1000.0,"Common reed grass, phragmites",50495970.0,50705567.0
+2019-12-10,10000.0,"Common reed grass, phragmites",50505970.0,50715567.0
+2019-12-11,1000.0,"Common reed grass, phragmites",50506970.0,50716567.0
+2019-12-11,20.0,"Tree-of-heaven, Ailanthus",7469.0,50716587.0
+2019-12-12,,"Common reed grass, phragmites",,
+2019-12-12,100.0,"Common reed grass, phragmites",50507070.0,50716687.0
+2019-12-12,10000.0,"Common reed grass, phragmites",50517070.0,50726687.0
+2019-12-12,10000.0,"Common reed grass, phragmites",50527070.0,50736687.0
+2019-12-13,1000000000.0,"Common reed grass, phragmites",1050527070.0,1050736687.0
+2019-12-13,100000000.0,"Common reed grass, phragmites",1150527070.0,1150736687.0
+2019-12-13,10000.0,"Common reed grass, phragmites",1150537070.0,1150746687.0
+2019-12-14,1000.0,"Common reed grass, phragmites",1150538070.0,1150747687.0
+2019-12-17,1000.0,"Common reed grass, phragmites",1150539070.0,1150748687.0
+2019-12-17,1000.0,"Common reed grass, phragmites",1150540070.0,1150749687.0
+2019-12-17,1000.0,"Japanese Knotweed, Japanese Bamboo",2250.0,1150750687.0
+2019-12-17,10000.0,"Common reed grass, phragmites",1150550070.0,1150760687.0
+2019-12-17,20.0,"Tree-of-heaven, Ailanthus",7489.0,1150760707.0
+2019-12-17,10.0,"Tree-of-heaven, Ailanthus",7499.0,1150760717.0
+2020-01-01,1000.0,"Common reed grass, phragmites",1150551070.0,1150761717.0
+2020-01-07,1000.0,"Common reed grass, phragmites",1150552070.0,1150762717.0
+2020-01-07,10000.0,"Common reed grass, phragmites",1150562070.0,1150772717.0
+2020-01-07,200.0,"Common reed grass, phragmites",1150562270.0,1150772917.0
+2020-01-08,,Oriental Bittersweet,,
+2020-01-17,10000.0,"Common reed grass, phragmites",1150572270.0,1150782917.0
+2020-01-17,10000.0,"Common reed grass, phragmites",1150582270.0,1150792917.0
+2020-01-17,50.0,"Common reed grass, phragmites",1150582320.0,1150792967.0
+2020-01-17,200.0,"Common reed grass, phragmites",1150582520.0,1150793167.0
+2020-01-17,10000.0,"Common reed grass, phragmites",1150592520.0,1150803167.0
+2020-01-20,10000.0,"Common reed grass, phragmites",1150602520.0,1150813167.0
+2020-01-20,1000.0,"Common reed grass, phragmites",1150603520.0,1150814167.0
+2020-01-20,200.0,"Common reed grass, phragmites",1150603720.0,1150814367.0
+2020-01-20,2000.0,"Common reed grass, phragmites",1150605720.0,1150816367.0
+2020-01-20,,"Common reed grass, phragmites",,
+2020-01-20,1000.0,"Common reed grass, phragmites",1150606720.0,1150817367.0
+2020-01-27,500.0,"Common reed grass, phragmites",1150607220.0,1150817867.0
+2020-01-27,100000.0,"Common reed grass, phragmites",1150707220.0,1150917867.0
+2020-01-28,100000000.0,"Common reed grass, phragmites",1250707220.0,1250917867.0
+2020-01-28,100000.0,"Common reed grass, phragmites",1250807220.0,1251017867.0
+2020-01-28,100000000.0,"Common reed grass, phragmites",1350807220.0,1351017867.0
+2020-01-28,10000000.0,"Common reed grass, phragmites",1360807220.0,1361017867.0
+2020-01-28,10000.0,"Common reed grass, phragmites",1360817220.0,1361027867.0
+2020-01-31,10000.0,"Common reed grass, phragmites",1360827220.0,1361037867.0
+2020-01-31,1000.0,"Common reed grass, phragmites",1360828220.0,1361038867.0
+2020-01-31,1000.0,"Common reed grass, phragmites",1360829220.0,1361039867.0
+2020-02-02,10000.0,"Common reed grass, phragmites",1360839220.0,1361049867.0
+2020-02-03,,"Common reed grass, phragmites",,
+2020-02-03,1000.0,"Common reed grass, phragmites",1360840220.0,1361050867.0
+2020-02-03,1000.0,"Common reed grass, phragmites",1360841220.0,1361051867.0
+2020-02-05,1000.0,"Common reed grass, phragmites",1360842220.0,1361052867.0
+2020-02-05,1000.0,"Common reed grass, phragmites",1360843220.0,1361053867.0
+2020-02-05,100.0,"Common reed grass, phragmites",1360843320.0,1361053967.0
+2020-02-10,,Knotweed (species unknown),,
+2020-02-12,500.0,"Common reed grass, phragmites",1360843820.0,1361054467.0
+2020-02-12,500.0,"Common reed grass, phragmites",1360844320.0,1361054967.0
+2020-02-12,1000.0,"Common reed grass, phragmites",1360845320.0,1361055967.0
+2020-02-12,200.0,"Common reed grass, phragmites",1360845520.0,1361056167.0
+2020-02-12,10000.0,"Common reed grass, phragmites",1360855520.0,1361066167.0
+2020-02-12,1000.0,"Common reed grass, phragmites",1360856520.0,1361067167.0
+2020-02-13,10.0,"Tree-of-heaven, Ailanthus",7509.0,1361067177.0
+2020-02-17,100.0,"Common reed grass, phragmites",1360856620.0,1361067277.0
+2020-02-17,500.0,"Common reed grass, phragmites",1360857120.0,1361067777.0
+2020-02-17,10000.0,"Common reed grass, phragmites",1360867120.0,1361077777.0
+2020-02-17,1000.0,"Common reed grass, phragmites",1360868120.0,1361078777.0
+2020-02-17,1000.0,"Common reed grass, phragmites",1360869120.0,1361079777.0
+2020-02-17,1000.0,"Common reed grass, phragmites",1360870120.0,1361080777.0
+2020-02-17,1000.0,"Common reed grass, phragmites",1360871120.0,1361081777.0
+2020-02-17,1000.0,"Common reed grass, phragmites",1360872120.0,1361082777.0
+2020-02-19,,"Common reed grass, phragmites",,
+2020-02-19,500.0,"Common reed grass, phragmites",1360872620.0,1361083277.0
+2020-02-19,500.0,"Common reed grass, phragmites",1360873120.0,1361083777.0
+2020-02-19,10000.0,"Common reed grass, phragmites",1360883120.0,1361093777.0
+2020-02-19,1000.0,"Common reed grass, phragmites",1360884120.0,1361094777.0
+2020-02-20,10000.0,"Common reed grass, phragmites",1360894120.0,1361104777.0
+2020-02-20,10000.0,"Common reed grass, phragmites",1360904120.0,1361114777.0
+2020-02-20,1000.0,"Common reed grass, phragmites",1360905120.0,1361115777.0
+2020-02-21,10000.0,"Common reed grass, phragmites",1360915120.0,1361125777.0
+2020-02-21,10000.0,"Common reed grass, phragmites",1360925120.0,1361135777.0
+2020-02-21,100000.0,"Common reed grass, phragmites",1361025120.0,1361235777.0
+2020-02-21,1000.0,"Common reed grass, phragmites",1361026120.0,1361236777.0
+2020-02-21,10000.0,"Common reed grass, phragmites",1361036120.0,1361246777.0
+2020-02-21,1000.0,"Common reed grass, phragmites",1361037120.0,1361247777.0
+2020-02-21,1000.0,"Common reed grass, phragmites",1361038120.0,1361248777.0
+2020-02-21,100000.0,"Common reed grass, phragmites",1361138120.0,1361348777.0
+2020-02-22,10000.0,"Common reed grass, phragmites",1361148120.0,1361358777.0
+2020-02-22,1000.0,"Common reed grass, phragmites",1361149120.0,1361359777.0
+2020-02-22,1000.0,"Common reed grass, phragmites",1361150120.0,1361360777.0
+2020-02-22,10000.0,"Common reed grass, phragmites",1361160120.0,1361370777.0
+2020-02-22,1000.0,"Common reed grass, phragmites",1361161120.0,1361371777.0
+2020-02-22,100000.0,"Common reed grass, phragmites",1361261120.0,1361471777.0
+2020-02-22,10000.0,"Common reed grass, phragmites",1361271120.0,1361481777.0
+2020-02-22,1000.0,"Common reed grass, phragmites",1361272120.0,1361482777.0
+2020-02-22,10000.0,"Common reed grass, phragmites",1361282120.0,1361492777.0
+2020-02-23,100000.0,"Common reed grass, phragmites",1361382120.0,1361592777.0
+2020-02-23,1000.0,"Common reed grass, phragmites",1361383120.0,1361593777.0
+2020-02-23,500.0,"Common reed grass, phragmites",1361383620.0,1361594277.0
+2020-02-23,100.0,"Common reed grass, phragmites",1361383720.0,1361594377.0
+2020-02-23,300.0,"Common reed grass, phragmites",1361384020.0,1361594677.0
+2020-03-07,200.0,"Common reed grass, phragmites",1361384220.0,1361594877.0
+2020-03-07,1000.0,"Common reed grass, phragmites",1361385220.0,1361595877.0
+2020-03-07,10000.0,"Common reed grass, phragmites",1361395220.0,1361605877.0
+2020-03-07,200.0,"Common reed grass, phragmites",1361395420.0,1361606077.0
+2020-03-07,300.0,"Common reed grass, phragmites",1361395720.0,1361606377.0
+2020-03-07,100000.0,"Common reed grass, phragmites",1361495720.0,1361706377.0
+2020-03-07,200.0,"Common reed grass, phragmites",1361495920.0,1361706577.0
+2020-03-07,1000.0,"Common reed grass, phragmites",1361496920.0,1361707577.0
+2020-03-07,1000.0,"Common reed grass, phragmites",1361497920.0,1361708577.0
+2020-03-08,1000.0,"Common reed grass, phragmites",1361498920.0,1361709577.0
+2020-03-08,10000.0,"Common reed grass, phragmites",1361508920.0,1361719577.0
+2020-03-08,1000.0,"Common reed grass, phragmites",1361509920.0,1361720577.0
+2020-03-09,1000.0,"Common reed grass, phragmites",1361510920.0,1361721577.0
+2020-03-09,10000.0,"Common reed grass, phragmites",1361520920.0,1361731577.0
+2020-03-09,200.0,"Common reed grass, phragmites",1361521120.0,1361731777.0
+2020-03-09,1000.0,"Common reed grass, phragmites",1361522120.0,1361732777.0
+2020-03-09,1000000.0,"Common reed grass, phragmites",1362522120.0,1362732777.0
+2020-03-09,10000.0,"Common reed grass, phragmites",1362532120.0,1362742777.0
+2020-03-09,1000.0,"Common reed grass, phragmites",1362533120.0,1362743777.0
+2020-03-09,1000.0,"Common reed grass, phragmites",1362534120.0,1362744777.0
+2020-03-10,1000.0,"Common reed grass, phragmites",1362535120.0,1362745777.0
+2020-03-10,10000.0,"Common reed grass, phragmites",1362545120.0,1362755777.0
+2020-03-10,10000.0,"Common reed grass, phragmites",1362555120.0,1362765777.0
+2020-03-10,1000.0,"Common reed grass, phragmites",1362556120.0,1362766777.0
+2020-03-10,10000.0,"Common reed grass, phragmites",1362566120.0,1362776777.0
+2020-03-10,1000.0,"Common reed grass, phragmites",1362567120.0,1362777777.0
+2020-03-10,1000.0,"Common reed grass, phragmites",1362568120.0,1362778777.0
+2020-03-10,1000.0,"Common reed grass, phragmites",1362569120.0,1362779777.0
+2020-03-10,1000.0,"Common reed grass, phragmites",1362570120.0,1362780777.0
+2020-03-10,200.0,"Common reed grass, phragmites",1362570320.0,1362780977.0
+2020-03-10,400.0,"Common reed grass, phragmites",1362570720.0,1362781377.0
+2020-03-10,100000.0,"Common reed grass, phragmites",1362670720.0,1362881377.0
+2020-03-11,500.0,"Common reed grass, phragmites",1362671220.0,1362881877.0
+2020-03-11,1000.0,"Common reed grass, phragmites",1362672220.0,1362882877.0
+2020-03-11,200.0,"Common reed grass, phragmites",1362672420.0,1362883077.0
+2020-03-12,1000.0,"Common reed grass, phragmites",1362673420.0,1362884077.0
+2020-03-12,1000.0,"Common reed grass, phragmites",1362674420.0,1362885077.0
+2020-03-12,200.0,"Common reed grass, phragmites",1362674620.0,1362885277.0
+2020-03-29,10000.0,"Common reed grass, phragmites",1362684620.0,1362895277.0
+2020-03-31,100.0,"Common reed grass, phragmites",1362684720.0,1362895377.0
+2020-03-31,1000.0,"Common reed grass, phragmites",1362685720.0,1362896377.0
+2020-03-31,200.0,"Common reed grass, phragmites",1362685920.0,1362896577.0
+2020-03-31,1000.0,"Common reed grass, phragmites",1362686920.0,1362897577.0
+2020-03-31,10000.0,"Common reed grass, phragmites",1362696920.0,1362907577.0
+2020-03-31,100.0,"Common reed grass, phragmites",1362697020.0,1362907677.0
+2020-03-31,300.0,"Common reed grass, phragmites",1362697320.0,1362907977.0
+2020-03-31,1000.0,"Common reed grass, phragmites",1362698320.0,1362908977.0
+2020-03-31,1000.0,"Common reed grass, phragmites",1362699320.0,1362909977.0
+2020-04-02,30.0,Purple Loosestrife,4735.0,1362910007.0
+2020-04-02,300.0,"Common reed grass, phragmites",1362699620.0,1362910307.0
+2020-04-02,10000.0,"Common reed grass, phragmites",1362709620.0,1362920307.0
+2020-04-02,10000.0,"Common reed grass, phragmites",1362719620.0,1362930307.0
+2020-04-02,1000.0,"Common reed grass, phragmites",1362720620.0,1362931307.0
+2020-04-02,1000.0,"Common reed grass, phragmites",1362721620.0,1362932307.0
+2020-04-02,10000.0,"Common reed grass, phragmites",1362731620.0,1362942307.0
+2020-04-02,50.0,"Common reed grass, phragmites",1362731670.0,1362942357.0
+2020-04-02,500.0,"Common reed grass, phragmites",1362732170.0,1362942857.0
+2020-04-03,1000.0,"Common reed grass, phragmites",1362733170.0,1362943857.0
+2020-04-03,10000.0,"Common reed grass, phragmites",1362743170.0,1362953857.0
+2020-04-03,10000.0,"Common reed grass, phragmites",1362753170.0,1362963857.0
+2020-04-03,10000.0,"Common reed grass, phragmites",1362763170.0,1362973857.0
+2020-04-03,10000.0,"Common reed grass, phragmites",1362773170.0,1362983857.0
+2020-04-03,10000.0,"Common reed grass, phragmites",1362783170.0,1362993857.0
+2020-04-03,100000000.0,"Common reed grass, phragmites",1462783170.0,1462993857.0
+2020-04-03,10000.0,"Common reed grass, phragmites",1462793170.0,1463003857.0
+2020-04-03,10000.0,"Common reed grass, phragmites",1462803170.0,1463013857.0
+2020-04-03,100000.0,"Common reed grass, phragmites",1462903170.0,1463113857.0
+2020-04-03,1000000.0,"Common reed grass, phragmites",1463903170.0,1464113857.0
+2020-04-03,1000.0,"Common reed grass, phragmites",1463904170.0,1464114857.0
+2020-04-03,10000.0,"Common reed grass, phragmites",1463914170.0,1464124857.0
+2020-04-03,2000.0,"Common reed grass, phragmites",1463916170.0,1464126857.0
+2020-04-03,1000.0,"Common reed grass, phragmites",1463917170.0,1464127857.0
+2020-04-03,10000.0,"Common reed grass, phragmites",1463927170.0,1464137857.0
+2020-04-03,1000.0,"Common reed grass, phragmites",1463928170.0,1464138857.0
+2020-04-03,10000.0,"Common reed grass, phragmites",1463938170.0,1464148857.0
+2020-04-04,1001.0,"Common reed grass, phragmites",1463939171.0,1464149858.0
+2020-04-04,1000.0,"Common reed grass, phragmites",1463940171.0,1464150858.0
+2020-04-04,10000.0,"Common reed grass, phragmites",1463950171.0,1464160858.0
+2020-04-04,1000.0,"Common reed grass, phragmites",1463951171.0,1464161858.0
+2020-04-04,1000.0,"Common reed grass, phragmites",1463952171.0,1464162858.0
+2020-04-04,500.0,"Common reed grass, phragmites",1463952671.0,1464163358.0
+2020-04-04,1000.0,"Common reed grass, phragmites",1463953671.0,1464164358.0
+2020-04-04,1000.0,"Common reed grass, phragmites",1463954671.0,1464165358.0
+2020-04-04,10000.0,"Common reed grass, phragmites",1463964671.0,1464175358.0
+2020-04-04,10000.0,"Common reed grass, phragmites",1463974671.0,1464185358.0
+2020-04-05,2000.0,"Common reed grass, phragmites",1463976671.0,1464187358.0
+2020-04-05,10000.0,"Common reed grass, phragmites",1463986671.0,1464197358.0
+2020-04-06,200.0,"Common reed grass, phragmites",1463986871.0,1464197558.0
+2020-04-06,1000.0,"Common reed grass, phragmites",1463987871.0,1464198558.0
+2020-04-07,1000.0,"Common reed grass, phragmites",1463988871.0,1464199558.0
+2020-04-07,10000.0,"Common reed grass, phragmites",1463998871.0,1464209558.0
+2020-04-07,10000.0,"Common reed grass, phragmites",1464008871.0,1464219558.0
+2020-04-08,1000.0,"Common reed grass, phragmites",1464009871.0,1464220558.0
+2020-04-08,1000000.0,"Common reed grass, phragmites",1465009871.0,1465220558.0
+2020-04-09,200.0,"Common reed grass, phragmites",1465010071.0,1465220758.0
+2020-04-09,500.0,"Common reed grass, phragmites",1465010571.0,1465221258.0
+2020-04-09,100000.0,"Common reed grass, phragmites",1465110571.0,1465321258.0
+2020-04-10,10000000.0,"Common reed grass, phragmites",1475110571.0,1475321258.0
+2020-04-10,200.0,"Common reed grass, phragmites",1475110771.0,1475321458.0
+2020-04-10,1000.0,"Common reed grass, phragmites",1475111771.0,1475322458.0
+2020-04-10,200.0,"Common reed grass, phragmites",1475111971.0,1475322658.0
+2020-04-10,500.0,"Common reed grass, phragmites",1475112471.0,1475323158.0
+2020-04-11,10000.0,"Common reed grass, phragmites",1475122471.0,1475333158.0
+2020-04-11,10000.0,"Common reed grass, phragmites",1475132471.0,1475343158.0
+2020-04-11,1000000.0,"Common reed grass, phragmites",1476132471.0,1476343158.0
+2020-04-11,200.0,"Common reed grass, phragmites",1476132671.0,1476343358.0
+2020-04-11,200.0,"Common reed grass, phragmites",1476132871.0,1476343558.0
+2020-04-11,10000.0,"Common reed grass, phragmites",1476142871.0,1476353558.0
+2020-04-11,10000000.0,"Common reed grass, phragmites",1486142871.0,1486353558.0
+2020-04-11,1000.0,"Common reed grass, phragmites",1486143871.0,1486354558.0
+2020-04-11,200.0,"Common reed grass, phragmites",1486144071.0,1486354758.0
+2020-04-11,10000.0,"Common reed grass, phragmites",1486154071.0,1486364758.0
+2020-04-11,1000.0,"Common reed grass, phragmites",1486155071.0,1486365758.0
+2020-04-11,200.0,"Common reed grass, phragmites",1486155271.0,1486365958.0
+2020-04-11,500.0,"Common reed grass, phragmites",1486155771.0,1486366458.0
+2020-04-12,1000000.0,"Common reed grass, phragmites",1487155771.0,1487366458.0
+2020-04-12,1000.0,"Common reed grass, phragmites",1487156771.0,1487367458.0
+2020-04-12,1000.0,"Common reed grass, phragmites",1487157771.0,1487368458.0
+2020-04-12,500.0,"Common reed grass, phragmites",1487158271.0,1487368958.0
+2020-04-12,100000.0,"Common reed grass, phragmites",1487258271.0,1487468958.0
+2020-04-12,10000.0,"Common reed grass, phragmites",1487268271.0,1487478958.0
+2020-04-12,10000.0,"Common reed grass, phragmites",1487278271.0,1487488958.0
+2020-04-12,100000.0,"Common reed grass, phragmites",1487378271.0,1487588958.0
+2020-04-12,100000.0,"Common reed grass, phragmites",1487478271.0,1487688958.0
+2020-04-12,30.0,Purple Loosestrife,4765.0,1487688988.0
+2020-04-12,1000.0,"Common reed grass, phragmites",1487479271.0,1487689988.0
+2020-04-12,10000000.0,"Common reed grass, phragmites",1497479271.0,1497689988.0
+2020-04-12,1000.0,"Common reed grass, phragmites",1497480271.0,1497690988.0
+2020-04-13,1000.0,"Common reed grass, phragmites",1497481271.0,1497691988.0
+2020-04-13,10000.0,"Common reed grass, phragmites",1497491271.0,1497701988.0
+2020-04-13,1000.0,"Common reed grass, phragmites",1497492271.0,1497702988.0
+2020-04-14,10000.0,"Common reed grass, phragmites",1497502271.0,1497712988.0
+2020-04-15,2000.0,"Common reed grass, phragmites",1497504271.0,1497714988.0
+2020-04-15,50.0,"Japanese Knotweed, Japanese Bamboo",2300.0,1497715038.0
+2020-04-15,1000.0,"Common reed grass, phragmites",1497505271.0,1497716038.0
+2020-04-15,200.0,"Common reed grass, phragmites",1497505471.0,1497716238.0
+2020-04-16,300.0,"Common reed grass, phragmites",1497505771.0,1497716538.0
+2020-04-16,10000.0,"Common reed grass, phragmites",1497515771.0,1497726538.0
+2020-04-16,10000.0,"Common reed grass, phragmites",1497525771.0,1497736538.0
+2020-04-16,1000.0,"Common reed grass, phragmites",1497526771.0,1497737538.0
+2020-04-16,10000.0,"Common reed grass, phragmites",1497536771.0,1497747538.0
+2020-04-16,1000.0,"Common reed grass, phragmites",1497537771.0,1497748538.0
+2020-04-18,1000.0,"Common reed grass, phragmites",1497538771.0,1497749538.0
+2020-04-22,20.0,Knotweed (species unknown),196150.0,1497749558.0
+2020-04-23,1000.0,"Common reed grass, phragmites",1497539771.0,1497750558.0
+2020-04-24,50.0,Purple Loosestrife,4815.0,1497750608.0
+2020-04-25,10000.0,"Common reed grass, phragmites",1497549771.0,1497760608.0
+2020-05-04,1000.0,Knotweed (species unknown),197150.0,1497761608.0
+2020-05-05,300.0,"Common reed grass, phragmites",1497550071.0,1497761908.0
+2020-05-10,3.0,Knotweed (species unknown),197153.0,1497761911.0
+2020-05-11,1000.0,"Common reed grass, phragmites",1497551071.0,1497762911.0
+2020-05-12,200.0,"Common reed grass, phragmites",1497551271.0,1497763111.0
+2020-05-14,1000.0,"Common reed grass, phragmites",1497552271.0,1497764111.0
+2020-05-15,,"Common reed grass, phragmites",,
+2020-05-21,,Mugwort,,
+2020-05-21,,Goutweed,,
+2020-05-21,,Garlic Mustard,,
+2020-05-21,,Honeysuckle (species unknown),,
+2020-05-27,,Eurasian Water-milfoil,,
+2020-05-27,,Yellow Iris,,
+2020-05-27,,Yellow Iris,,
+2020-05-27,,Yellow Iris,,
+2020-05-27,,Yellow Iris,,
+2020-05-27,,Yellow Iris,,
+2020-05-27,,Eurasian Water-milfoil,,
+2020-05-28,,Yellow Iris,,
+2020-05-28,,Yellow Iris,,
+2020-05-28,,Yellow Iris,,
+2020-05-28,,Yellow Iris,,
+2020-05-28,,Eurasian Water-milfoil,,
+2020-05-28,,Yellow Iris,,
+2020-05-29,,Yellow Iris,,
+2020-05-29,,Yellow Iris,,
+2020-05-29,,Yellow Iris,,
+2020-05-29,,Yellow Iris,,
+2020-05-29,,Yellow Iris,,
+2020-05-29,,Yellow Iris,,
+2020-05-31,,Yellow Iris,,
+2020-06-01,,"Glossy Buckthorn, European Buckthorn",,
+2020-06-01,,Yellow Iris,,
+2020-06-01,,"Glossy Buckthorn, European Buckthorn",,
+2020-06-04,,Yellow Iris,,
+2020-06-04,,Yellow Iris,,
+2020-06-04,,Yellow Iris,,
+2020-06-04,,Yellow Iris,,
+2020-06-04,,Yellow Iris,,
+2020-06-08,,Yellow Iris,,
+2020-06-08,,Yellow Iris,,
+2020-06-08,,Yellow Iris,,
+2020-06-08,,Yellow Iris,,
+2020-06-08,,Yellow Iris,,
+2020-06-08,,Yellow Iris,,
+2020-06-08,,Yellow Iris,,
+2020-06-08,,Yellow Iris,,
+2020-06-08,,Yellow Iris,,
+2020-06-08,,Yellow Iris,,
+2020-06-08,,Yellow Iris,,
+2020-06-10,,Knotweed (species unknown),,
+2020-06-11,,"Common reed grass, phragmites",,
+2020-06-11,20.0,Yellow Iris,20.0,1497764131.0
+2020-06-14,13.0,Scotch Broom,13.0,1497764144.0
+2020-06-17,1000.0,"Common reed grass, phragmites",1497553271.0,1497765144.0
+2020-06-22,1000.0,Knotweed (species unknown),198153.0,1497766144.0
+2020-06-24,5.0,"Tree-of-heaven, Ailanthus",7514.0,1497766149.0
+2020-06-28,,Swallowwort (species unknown),,
+2020-06-30,,Slender Falsebrome,,
+2020-07-01,10.0,"Tree-of-heaven, Ailanthus",7524.0,1497766159.0
+2020-07-03,,"Callery Pear, Bradford Pear",,
+2020-07-03,,"Japanese Knotweed, Japanese Bamboo",,
+2020-07-08,,"Common reed grass, phragmites",,
+2020-07-08,,"Canada Thistle, Creeping Thistle",,
+2020-07-08,,Multiflora Rose,,
+2020-07-08,,Reed Canarygrass,,
+2020-07-08,,"Common reed grass, phragmites",,
+2020-07-08,,"Common reed grass, phragmites",,
+2020-07-08,,Common Buckthorn,,
+2020-07-08,,Honeysuckle (species unknown),,
+2020-07-08,,Common Buckthorn,,
+2020-07-08,,Common Buckthorn,,
+2020-07-08,,"Canada Thistle, Creeping Thistle",,
+2020-07-08,,"Common reed grass, phragmites",,
+2020-07-08,,Cutleaf teasel,,
+2020-07-08,,"Common reed grass, phragmites",,
+2020-07-08,,Black Locust,,
+2020-07-08,,"Canada Thistle, Creeping Thistle",,
+2020-07-08,,"Common reed grass, phragmites",,
+2020-07-08,,"Common reed grass, phragmites",,
+2020-07-08,,Narrowleaf Cattail,,
+2020-07-08,,Bull Thistle,,
+2020-07-08,,Bull Thistle,,
+2020-07-08,,Multiflora Rose,,
+2020-07-08,,Multiflora Rose,,
+2020-07-08,,Mugwort,,
+2020-07-08,,Honeysuckle (species unknown),,
+2020-07-08,,Crown Vetch,,
+2020-07-08,,Bull Thistle,,
+2020-07-08,,"Common reed grass, phragmites",,
+2020-07-08,,"Common reed grass, phragmites",,
+2020-07-08,,Mugwort,,
+2020-07-08,,Cutleaf teasel,,
+2020-07-08,,Crown Vetch,,
+2020-07-08,,Crown Vetch,,
+2020-07-08,,Garlic Mustard,,
+2020-07-08,,Common Buckthorn,,
+2020-07-08,,Mugwort,,
+2020-07-08,,"Common reed grass, phragmites",,
+2020-07-08,,Mugwort,,
+2020-07-08,,Cutleaf teasel,,
+2020-07-08,,Honeysuckle (species unknown),,
+2020-07-08,,Multiflora Rose,,
+2020-07-10,10.0,"Tree-of-heaven, Ailanthus",7534.0,1497766169.0
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Multiflora Rose,,
+2020-07-14,,Multiflora Rose,,
+2020-07-14,,Multiflora Rose,,
+2020-07-14,,Autumn Olive,,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Multiflora Rose,,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Multiflora Rose,,
+2020-07-14,,Multiflora Rose,,
+2020-07-14,,Multiflora Rose,,
+2020-07-14,,Multiflora Rose,,
+2020-07-14,,Autumn Olive,,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Mugwort,,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Multiflora Rose,,
+2020-07-14,,Multiflora Rose,,
+2020-07-14,,Honeysuckle (species unknown),,
+2020-07-14,,Multiflora Rose,,
+2020-07-15,,Multiflora Rose,,
+2020-07-15,,Reed Canarygrass,,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Autumn Olive,,
+2020-07-15,,Garlic Mustard,,
+2020-07-15,,Reed Canarygrass,,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Mugwort,,
+2020-07-15,,Autumn Olive,,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Orange Daylily,,
+2020-07-15,,Multiflora Rose,,
+2020-07-15,,Multiflora Rose,,
+2020-07-15,,Black Locust,,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Knapweed (species unknown),,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Multiflora Rose,,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Knapweed (species unknown),,
+2020-07-15,,Multiflora Rose,,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Autumn Olive,,
+2020-07-15,,Autumn Olive,,
+2020-07-15,,Multiflora Rose,,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-15,,Mugwort,,
+2020-07-15,,Honeysuckle (species unknown),,
+2020-07-16,,"Common reed grass, phragmites",,
+2020-07-16,,Japanese Stiltgrass,,
+2020-07-27,,"Glossy Buckthorn, European Buckthorn",,
+2020-07-27,,Common Buckthorn,,
+2020-07-27,,Common Buckthorn,,
+2020-07-27,,Common Buckthorn,,
+2020-07-27,,"Common reed grass, phragmites",,
+2020-07-30,,Honeysuckle (species unknown),,
+2020-07-30,,Mugwort,,
+2020-07-30,,Purple Loosestrife,,
+2020-07-30,,Mugwort,,
+2020-07-30,,Honeysuckle (species unknown),,
+2020-07-30,,Multiflora Rose,,
+2020-07-30,,Mugwort,,
+2020-07-30,,Purple Loosestrife,,
+2020-07-30,,"Common reed grass, phragmites",,
+2020-07-30,,Mugwort,,
+2020-07-31,0.0,Northern Snakehead,0.0,1497766169.0
+2020-08-03,,Japanese Stiltgrass,,
+2020-08-03,,Mugwort,,
+2020-08-03,,Crown Vetch,,
+2020-08-03,,Multiflora Rose,,
+2020-08-03,,Honeysuckle (species unknown),,
+2020-08-03,,Multiflora Rose,,
+2020-08-03,,Mugwort,,
+2020-08-03,,Japanese Stiltgrass,,
+2020-08-03,,Fullers Teasel,,
+2020-08-03,,Reed Canarygrass,,
+2020-08-11,,"Mile-a-minute, Mile a minute weed",,
+2020-08-11,,"Mile-a-minute, Mile a minute weed",,
+2020-08-11,,"Mile-a-minute, Mile a minute weed",,
+2020-08-15,,Water Chestnut,,
+2020-08-20,,"Glossy Buckthorn, European Buckthorn",,
+2020-08-20,50.0,"Tree-of-heaven, Ailanthus",7584.0,1497766219.0
+2020-08-22,,Japanese Stiltgrass,,
+2020-08-22,,Japanese Stiltgrass,,
+2020-08-22,,Japanese Stiltgrass,,
+2020-08-23,,Japanese Stiltgrass,,
+2020-08-23,,Japanese Stiltgrass,,
+2020-08-23,,Japanese Stiltgrass,,
+2020-08-24,500.0,Water Chestnut,500.0,1497766719.0
+2020-08-24,1000.0,Water Chestnut,1500.0,1497767719.0
+2020-08-24,500.0,Water Chestnut,2000.0,1497768219.0
+2020-08-26,,Common Buckthorn,,
+2020-08-26,,Multiflora Rose,,
+2020-08-26,,Oriental Bittersweet,,
+2020-08-26,,"Tree-of-heaven, Ailanthus",,
+2020-08-26,,Spotted Knapweed,,
+2020-08-26,,Oriental Bittersweet,,
+2020-08-26,,Mugwort,,
+2020-08-26,,Black Locust,,
+2020-08-26,,Autumn Olive,,
+2020-08-26,,Coltsfoot,,
+2020-08-26,,Garlic Mustard,,
+2020-08-26,,Mugwort,,
+2020-08-26,,Coltsfoot,,
+2020-08-26,,Knapweed (species unknown),,
+2020-08-26,,Mugwort,,
+2020-08-26,,Common Buckthorn,,
+2020-08-26,,Purple Loosestrife,,
+2020-08-26,,Oriental Bittersweet,,
+2020-08-26,,Purple Loosestrife,,
+2020-08-26,,Honeysuckle (species unknown),,
+2020-08-26,,Black Locust,,
+2020-08-26,,Coltsfoot,,
+2020-08-26,,Garlic Mustard,,
+2020-08-26,,Multiflora Rose,,
+2020-08-26,,Garlic Mustard,,
+2020-08-26,,"Tree-of-heaven, Ailanthus",,
+2020-08-26,,Purple Loosestrife,,
+2020-08-26,,Garlic Mustard,,
+2020-08-26,,"Japanese Knotweed, Japanese Bamboo",,
+2020-08-26,,"Common reed grass, phragmites",,
+2020-08-26,,Multiflora Rose,,
+2020-08-26,,"Common reed grass, phragmites",,
+2020-08-26,,Honeysuckle (species unknown),,
+2020-08-26,,"Japanese Knotweed, Japanese Bamboo",,
+2020-08-26,,Common Buckthorn,,
+2020-08-26,,"Canada Thistle, Creeping Thistle",,
+2020-08-26,,Mugwort,,
+2020-08-26,,Purple Loosestrife,,
+2020-08-26,,Water Chestnut,,
+2020-08-26,,Black Locust,,
+2020-08-26,,"Common reed grass, phragmites",,
+2020-08-26,,"Japanese Knotweed, Japanese Bamboo",,
+2020-08-26,,Oriental Bittersweet,,
+2020-08-26,,"Common reed grass, phragmites",,
+2020-09-01,,Japanese Stiltgrass,,
+2020-09-01,,Japanese Stiltgrass,,
+2020-09-09,,"Common reed grass, phragmites",,
+2020-09-09,,"Common reed grass, phragmites",,
+2020-09-09,,Narrowleaf Cattail,,
+2020-09-09,,"Common reed grass, phragmites",,
+2020-09-09,,"Common reed grass, phragmites",,
+2020-09-09,,Swallowwort (species unknown),,
+2020-09-10,,"Common reed grass, phragmites",,
+2020-09-10,,"Common reed grass, phragmites",,
+2020-09-10,,"Common reed grass, phragmites",,
+2020-09-10,,"Common reed grass, phragmites",,
+2020-09-11,2.0,Purple Loosestrife,4817.0,1497768221.0
+2020-09-14,500.0,"Common reed grass, phragmites",1497553771.0,1497768721.0
+2020-09-15,,Pale Swallowwort,,
+2020-09-15,1000.0,Pale Swallowwort,1000.0,1497769721.0
+2020-09-24,,Privet (species unknown),,
+2020-09-27,,Amur Honeysuckle,,
+2020-09-29,,Spotted Knapweed,,
+2020-09-29,,Mugwort,,
+2020-09-29,,Spotted Knapweed,,
+2020-09-29,,Spotted Knapweed,,
+2020-09-29,,Mugwort,,
+2020-09-29,,Mugwort,,
+2020-09-30,5.0,Autumn Olive,5.0,1497769726.0
+2020-09-30,,"Glossy Buckthorn, European Buckthorn",,
+2020-09-30,,Japanese Honeysuckle,,
+2020-09-30,1.0,Multiflora Rose,1.0,1497769727.0
+2020-09-30,5.0,Black Locust,5.0,1497769732.0
+2020-10-02,,Japanese Honeysuckle,,
+2020-10-02,,"Glossy Buckthorn, European Buckthorn",,
+2020-10-06,,Autumn Olive,,
+2020-10-06,,Oriental Bittersweet,,
+2020-10-06,,Japanese Holly,,
+2020-10-06,,Toringo Crabapple,,
+2020-10-06,,Multiflora Rose,,
+2020-10-06,,Black Locust,,
+2020-10-06,,Oriental Bittersweet,,
+2020-10-06,,Autumn Olive,,
+2020-10-06,,"Common reed grass, phragmites",,
+2020-10-06,,Japanese Barberry,,
+2020-10-06,,Oriental Bittersweet,,
+2020-10-06,,Wisteria (species unknown),,
+2020-10-06,,"Glossy Buckthorn, European Buckthorn",,
+2020-10-06,,Tea Viburnum,,
+2020-10-06,,Wineberry,,
+2020-10-06,,Multiflora Rose,,
+2020-10-06,,"Glossy Buckthorn, European Buckthorn",,
+2020-10-06,,Japanese Barberry,,
+2020-10-06,,Toringo Crabapple,,
+2020-10-06,,Japanese Honeysuckle,,
+2020-10-06,,Wisteria (species unknown),,
+2020-10-06,,Siebold's Viburnum,,
+2020-10-06,,"Burning Bush, Winged Euonymus",,
+2020-10-06,,Japanese Honeysuckle,,
+2020-10-06,,Tea Viburnum,,
+2020-10-06,,Privet (species unknown),,
+2020-10-06,,Amur Honeysuckle,,
+2020-10-06,,Oriental Bittersweet,,
+2020-10-06,,Greenstem Forsythia,,
+2020-10-06,,Autumn Olive,,
+2020-10-06,,Wineberry,,
+2020-10-06,,Oriental Bittersweet,,
+2020-10-06,,Oriental Bittersweet,,
+2020-10-06,,Honeysuckle (species unknown),,
+2020-10-06,,Cherry (species unknown),,
+2020-10-06,,Oriental Bittersweet,,
+2020-10-06,,Multiflora Rose,,
+2020-10-06,,Mugwort,,
+2020-10-06,,Autumn Olive,,
+2020-10-06,,Multiflora Rose,,
+2020-10-06,,Autumn Olive,,
+2020-10-06,,Mugwort,,
+2020-10-06,,Multiflora Rose,,
+2020-10-06,,Multiflora Rose,,
+2020-10-06,,Japanese Honeysuckle,,
+2020-10-06,,"Burning Bush, Winged Euonymus",,
+2020-10-06,,"Glossy Buckthorn, European Buckthorn",,
+2020-10-06,,Honeysuckle (species unknown),,
+2020-10-15,12.0,"Tree-of-heaven, Ailanthus",7596.0,1497769744.0
+2020-10-17,,Bristly Lady's-thumb,,
+2020-10-20,5.0,"Tree-of-heaven, Ailanthus",7601.0,1497769749.0
+2020-11-06,50.0,"Tree-of-heaven, Ailanthus",7651.0,1497769799.0
+2021-02-04,10000.0,Knotweed (species unknown),208153.0,1497779799.0
+2021-02-05,100.0,Knotweed (species unknown),208253.0,1497779899.0
+2021-03-04,1000.0,"Common reed grass, phragmites",1497554771.0,1497780899.0
+2021-04-14,,Water Chestnut,,
+2021-04-15,,Spongy Moth,,
+2021-05-08,1.0,"Lesser celandine, Fig Buttercup",1.0,1497780900.0
+2021-05-08,1.0,"Lesser celandine, Fig Buttercup",2.0,1497780901.0
+2021-05-12,,Garlic Mustard,,
+2021-05-12,,Morrows honeysuckle,,
+2021-05-12,,Morrows honeysuckle,,
+2021-05-12,,Morrows honeysuckle,,
+2021-05-18,15.0,Hemlock Woolly Adelgid,15.0,1497780916.0
+2021-05-18,12.0,Hemlock Woolly Adelgid,27.0,1497780928.0
+2021-05-24,,Crown Vetch,,
+2021-05-24,,Dame's Rocket,,
+2021-05-24,,Bird's Foot Trefoil,,
+2021-05-24,,Dame's Rocket,,
+2021-05-24,,Dame's Rocket,,
+2021-05-24,,Swallowwort (species unknown),,
+2021-05-24,,Common Buckthorn,,
+2021-05-24,,Dame's Rocket,,
+2021-05-25,,Mugwort,,
+2021-05-25,,Goutweed,,
+2021-05-25,,Mugwort,,
+2021-05-25,,Mugwort,,
+2021-05-25,,"Japanese Knotweed, Japanese Bamboo",,
+2021-05-25,,Honeysuckle (species unknown),,
+2021-05-25,,"Japanese Knotweed, Japanese Bamboo",,
+2021-05-25,,"Japanese Knotweed, Japanese Bamboo",,
+2021-05-25,,"Japanese Knotweed, Japanese Bamboo",,
+2021-05-25,,"Japanese Knotweed, Japanese Bamboo",,
+2021-06-02,,"Tree-of-heaven, Ailanthus",,
+2021-06-02,,Knotweed (species unknown),,
+2021-06-02,,Crown Vetch,,
+2021-06-02,,Knotweed (species unknown),,
+2021-06-02,,Knotweed (species unknown),,
+2021-06-02,,Dame's Rocket,,
+2021-06-02,,Mugwort,,
+2021-06-09,,Slender Falsebrome,,
+2021-06-09,,Slender Falsebrome,,
+2021-06-11,,Garlic Mustard,,
+2021-06-11,,"Common reed grass, phragmites",,
+2021-06-11,,Coltsfoot,,
+2021-06-11,,Mugwort,,
+2021-06-11,,Multiflora Rose,,
+2021-06-11,,Honeysuckle (species unknown),,
+2021-06-11,,Goutweed,,
+2021-06-11,,Multiflora Rose,,
+2021-06-11,,Black Locust,,
+2021-06-11,,Garlic Mustard,,
+2021-06-11,,Goutweed,,
+2021-06-15,2.0,Slender Falsebrome,2.0,1497780930.0
+2021-06-15,,Slender Falsebrome,,
+2021-06-16,,Slender Falsebrome,,
+2021-06-16,,Slender Falsebrome,,
+2021-06-16,,Slender Falsebrome,,
+2021-06-16,,Slender Falsebrome,,
+2021-06-16,,Slender Falsebrome,,
+2021-06-16,2.0,Slender Falsebrome,4.0,1497780932.0
+2021-06-16,,Slender Falsebrome,,
+2021-06-16,,Slender Falsebrome,,
+2021-06-16,,Slender Falsebrome,,
+2021-06-20,,Pale Swallowwort,,
+2021-06-22,,Slender Falsebrome,,
+2021-06-22,,Slender Falsebrome,,
+2021-06-22,,Slender Falsebrome,,
+2021-06-22,,Slender Falsebrome,,
+2021-06-22,,Slender Falsebrome,,
+2021-06-22,2.0,Slender Falsebrome,6.0,1497780934.0
+2021-06-22,,Slender Falsebrome,,
+2021-06-26,10.0,Japanese Tree Lilac,10.0,1497780944.0
+2021-07-01,1.0,Memorial Rose,1.0,1497780945.0
+2021-07-01,,Multiflora Rose,,
+2021-07-01,,Japanese Honeysuckle,,
+2021-07-01,,Oriental Bittersweet,,
+2021-07-01,,Black Swallowwort,,
+2021-07-01,,Border Privet,,
+2021-07-01,,Morrows honeysuckle,,
+2021-07-01,,Porcelain Berry; Amur Peppervine,,
+2021-07-02,,Slender Falsebrome,,
+2021-07-13,,"Tree-of-heaven, Ailanthus",,
+2021-07-13,,Japanese Stiltgrass,,
+2021-07-14,,Mugwort,,
+2021-07-14,,"Canada Thistle, Creeping Thistle",,
+2021-07-14,,"Glossy Buckthorn, European Buckthorn",,
+2021-07-14,,Common mullein,,
+2021-07-14,,Wild Parsnip,,
+2021-07-14,,Honeysuckle (species unknown),,
+2021-07-14,,Chicory,,
+2021-07-14,,Crown Vetch,,
+2021-07-14,,Multiflora Rose,,
+2021-07-14,,Honeysuckle (species unknown),,
+2021-07-14,,Honeysuckle (species unknown),,
+2021-07-14,,Narrowleaf Cattail,,
+2021-07-15,,"Tree-of-heaven, Ailanthus",,
+2021-07-21,,"Glossy Buckthorn, European Buckthorn",,
+2021-07-21,,Multiflora Rose,,
+2021-07-21,,Multiflora Rose,,
+2021-07-21,,Multiflora Rose,,
+2021-07-21,,"Common reed grass, phragmites",,
+2021-07-21,,Honeysuckle (species unknown),,
+2021-07-21,,Multiflora Rose,,
+2021-07-21,,Periwinkle,,
+2021-07-21,,"Blue Cat-tail, Hybrid Cattail",,
+2021-07-21,,Periwinkle,,
+2021-07-21,,Honeysuckle (species unknown),,
+2021-07-21,,Chicory,,
+2021-07-21,,"Glossy Buckthorn, European Buckthorn",,
+2021-07-21,,Crown Vetch,,
+2021-07-22,5.0,"Tree-of-heaven, Ailanthus",7656.0,1497780950.0
+2021-07-28,,Japanese Stiltgrass,,
+2021-07-31,,Japanese Stiltgrass,,
+2021-08-13,,Japanese Stiltgrass,,
+2021-08-16,,"Jumping Worms (species unknown), Asian jumping worms",,
+2021-08-17,,Japanese Stiltgrass,,
+2021-08-19,,Japanese Stiltgrass,,
+2021-08-25,,Japanese Stiltgrass,,
+2021-08-25,,Japanese Stiltgrass,,
+2021-08-28,,Japanese Stiltgrass,,
+2021-09-11,,Japanese Stiltgrass,,
+2021-09-16,,Japanese Stiltgrass,,
+2021-09-16,,Japanese Stiltgrass,,
+2021-09-16,,Japanese Stiltgrass,,
+2021-09-16,,Japanese Stiltgrass,,
+2021-09-16,,Japanese Stiltgrass,,
+2021-09-20,,Japanese Stiltgrass,,
+2021-09-21,,Mugwort,,
+2021-09-21,,Honeysuckle (species unknown),,
+2021-09-21,,Multiflora Rose,,
+2021-09-21,,Multiflora Rose,,
+2021-09-21,,Multiflora Rose,,
+2021-09-21,,Mugwort,,
+2021-09-21,,Honeysuckle (species unknown),,
+2021-09-21,,Multiflora Rose,,
+2021-09-21,,Honeysuckle (species unknown),,
+2021-09-21,,Honeysuckle (species unknown),,
+2021-09-21,,Honeysuckle (species unknown),,
+2021-09-21,,Bristly Lady's-thumb,,
+2021-09-21,,Multiflora Rose,,
+2021-09-21,,Multiflora Rose,,
+2021-09-21,,Multiflora Rose,,
+2021-09-21,,Honeysuckle (species unknown),,
+2021-09-21,,Honeysuckle (species unknown),,
+2021-09-21,,Honeysuckle (species unknown),,
+2021-09-21,,Honeysuckle (species unknown),,
+2021-09-21,,Honeysuckle (species unknown),,
+2021-09-23,,Japanese Stiltgrass,,
+2021-09-23,,Oriental Bittersweet,,
+2021-09-30,,Japanese Stiltgrass,,
+2021-10-01,,"Common reed grass, phragmites",,
+2021-10-01,,Bohemian knotweed,,
+2021-10-07,3.0,Siberian Elm,3.0,1497780953.0
+2021-10-07,,"Tree-of-heaven, Ailanthus",,
+2021-10-08,,"Tree-of-heaven, Ailanthus",,
+2021-10-15,,Japanese Barberry,,
+2021-10-15,,Oriental Bittersweet,,
+2021-10-15,,Common Buckthorn,,
+2021-10-15,,Honeysuckle (species unknown),,
+2021-10-15,,Multiflora Rose,,
+2021-10-15,,Multiflora Rose,,
+2021-10-15,,Japanese Stiltgrass,,
+2021-10-15,,Common Buckthorn,,
+2021-10-15,,Oriental Bittersweet,,
+2021-10-15,,Honeysuckle (species unknown),,
+2021-10-15,,"Jumping Worms (species unknown), Asian jumping worms",,
+2021-10-15,,Oriental Bittersweet,,
+2021-10-15,,Multiflora Rose,,
+2021-10-15,,Common Buckthorn,,
+2021-10-15,,Honeysuckle (species unknown),,
+2021-10-15,,Multiflora Rose,,
+2021-10-15,,Mugwort,,
+2021-10-15,,Japanese Stiltgrass,,
+2021-10-15,,Common Buckthorn,,
+2021-10-15,,Common Buckthorn,,
+2021-10-15,,Multiflora Rose,,
+2021-10-15,,Honeysuckle (species unknown),,
+2021-10-15,,Oriental Bittersweet,,
+2021-10-15,,Oriental Bittersweet,,
+2021-10-15,,Multiflora Rose,,
+2021-10-15,,Privet (species unknown),,
+2021-10-15,,Japanese Stiltgrass,,
+2021-10-15,,Garlic Mustard,,
+2021-10-15,,Japanese Stiltgrass,,
+2021-10-15,,Honeysuckle (species unknown),,
+2021-10-15,,Oriental Bittersweet,,
+2021-10-15,,Mugwort,,
+2021-10-15,,Oriental Bittersweet,,
+2021-10-15,,Japanese Stiltgrass,,
+2021-10-15,,Privet (species unknown),,
+2021-10-15,,Honeysuckle (species unknown),,
+2021-10-15,,Common Buckthorn,,
+2021-10-15,,Common Buckthorn,,
+2021-10-15,,Oriental Bittersweet,,
+2021-10-15,,Common Buckthorn,,
+2021-10-15,,Common Buckthorn,,
+2021-10-17,,"Jumping Worms (species unknown), Asian jumping worms",,
+2021-11-24,,Silver Grass (species unknown),,
+2022-04-24,20.0,"Lesser celandine, Fig Buttercup",22.0,1497780973.0
+2022-04-28,,Garlic Mustard,,
+2022-04-28,,Garlic Mustard,,
+2022-04-29,4.0,"Lesser celandine, Fig Buttercup",26.0,1497780977.0
+2022-05-01,,Japanese Tree Lilac,,
+2022-05-10,,Garlic Mustard,,
+2022-05-11,,Common Buckthorn,,
+2022-05-13,,Japanese Barberry,,
+2022-05-13,1000.0,Leafy Spurge,1000.0,1497781977.0
+2022-05-17,,Honeysuckle (species unknown),,
+2022-05-17,,Honeysuckle (species unknown),,
+2022-05-17,,Japanese Barberry,,
+2022-05-17,,Oriental Bittersweet,,
+2022-05-17,,Japanese Barberry,,
+2022-05-17,,Honeysuckle (species unknown),,
+2022-05-17,,Garlic Mustard,,
+2022-05-17,,Honeysuckle (species unknown),,
+2022-05-17,,Honeysuckle (species unknown),,
+2022-05-17,,Honeysuckle (species unknown),,
+2022-05-17,,Honeysuckle (species unknown),,
+2022-05-17,,Honeysuckle (species unknown),,
+2022-05-17,,Honeysuckle (species unknown),,
+2022-05-17,,Japanese Barberry,,
+2022-05-17,,"Common reed grass, phragmites",,
+2022-05-17,,"Burning Bush, Winged Euonymus",,
+2022-05-23,,Fullers Teasel,,
+2022-05-23,,Crown Vetch,,
+2022-05-24,,Common Buckthorn,,
+2022-05-24,,Multiflora Rose,,
+2022-05-24,,Honeysuckle (species unknown),,
+2022-05-24,,Honeysuckle (species unknown),,
+2022-05-24,,Multiflora Rose,,
+2022-05-24,,Multiflora Rose,,
+2022-05-24,,Multiflora Rose,,
+2022-05-24,,Common Buckthorn,,
+2022-05-24,,Honeysuckle (species unknown),,
+2022-05-24,,Honeysuckle (species unknown),,
+2022-05-24,,Privet (species unknown),,
+2022-05-24,,Autumn Olive,,
+2022-05-24,,Oriental Bittersweet,,
+2022-05-24,,Multiflora Rose,,
+2022-05-24,,Honeysuckle (species unknown),,
+2022-05-24,,Common Buckthorn,,
+2022-05-26,,Knotweed (species unknown),,
+2022-05-26,,"Canada Thistle, Creeping Thistle",,
+2022-05-26,,Wild Parsnip,,
+2022-05-26,,Cutleaf teasel,,
+2022-05-26,,Cutleaf teasel,,
+2022-05-26,,Fullers Teasel,,
+2022-05-26,,Crown Vetch,,
+2022-05-26,,Crown Vetch,,
+2022-05-26,,"Lesser celandine, Fig Buttercup",,
+2022-05-26,,Wild Parsnip,,
+2022-05-26,,Common mullein,,
+2022-05-26,,Mugwort,,
+2022-05-26,,Reed Canarygrass,,
+2022-05-26,,Crown Vetch,,
+2022-05-26,,Mugwort,,
+2022-05-26,,Mugwort,,
+2022-05-26,,Cutleaf teasel,,
+2022-05-26,,Mugwort,,
+2022-05-26,,Mugwort,,
+2022-05-26,,Mugwort,,
+2022-05-26,,Curly Pondweed,,
+2022-05-26,,Crown Vetch,,
+2022-05-26,,Crown Vetch,,
+2022-05-26,,Wild Parsnip,,
+2022-05-26,,"Japanese Knotweed, Japanese Bamboo",,
+2022-05-26,,Cutleaf teasel,,
+2022-05-27,,Garlic Mustard,,
+2022-05-27,,Common Buckthorn,,
+2022-05-27,,Honeysuckle (species unknown),,
+2022-05-27,,Bull Thistle,,
+2022-05-27,,"Tree-of-heaven, Ailanthus",,
+2022-05-27,,Black Locust,,
+2022-05-27,,Black Swallowwort,,
+2022-05-27,,"Tree-of-heaven, Ailanthus",,
+2022-05-27,,Black Swallowwort,,
+2022-05-27,,Periwinkle,,
+2022-05-27,,"Burning Bush, Winged Euonymus",,
+2022-05-27,,Garlic Mustard,,
+2022-05-27,,Mugwort,,
+2022-05-27,,Black Locust,,
+2022-05-27,,Bull Thistle,,
+2022-05-27,,Black Locust,,
+2022-05-27,,Mugwort,,
+2022-05-27,,Black Locust,,
+2022-05-27,,Mugwort,,
+2022-05-27,,Common mullein,,
+2022-05-27,,Common mullein,,
+2022-05-27,,Honeysuckle (species unknown),,
+2022-05-31,,Leafy Spurge,,
+2022-06-01,,English Ivy,,
+2022-06-02,,Common Buckthorn,,
+2022-06-02,,Mugwort,,
+2022-06-03,1793.0,"Mile-a-minute, Mile a minute weed",1793.0,1497783770.0
+2022-06-06,,Black Locust,,
+2022-06-06,,Common mullein,,
+2022-06-06,,Black Swallowwort,,
+2022-06-06,,Dame's Rocket,,
+2022-06-06,,Multiflora Rose,,
+2022-06-06,,Wild Parsnip,,
+2022-06-06,,Honeysuckle (species unknown),,
+2022-06-06,,Multiflora Rose,,
+2022-06-06,,Privet (species unknown),,
+2022-06-06,,Mugwort,,
+2022-06-06,,Black Locust,,
+2022-06-06,,Dame's Rocket,,
+2022-06-06,,Honeysuckle (species unknown),,
+2022-06-06,,Common Buckthorn,,
+2022-06-06,,Privet (species unknown),,
+2022-06-06,,Common Buckthorn,,
+2022-06-06,,Dame's Rocket,,
+2022-06-06,,Honeysuckle (species unknown),,
+2022-06-06,,Multiflora Rose,,
+2022-06-06,,Multiflora Rose,,
+2022-06-06,,Black Swallowwort,,
+2022-06-06,,Black Locust,,
+2022-06-06,,Honeysuckle (species unknown),,
+2022-06-06,,Bull Thistle,,
+2022-06-06,,Common Buckthorn,,
+2022-06-06,,Oriental Bittersweet,,
+2022-06-06,,Common Buckthorn,,
+2022-06-06,,Fullers Teasel,,
+2022-06-06,,Honeysuckle (species unknown),,
+2022-06-06,,Wild Parsnip,,
+2022-06-06,,Multiflora Rose,,
+2022-06-06,,Honeysuckle (species unknown),,
+2022-06-06,,Common Buckthorn,,
+2022-06-06,,Common Buckthorn,,
+2022-06-06,,Common mullein,,
+2022-06-06,,Honeysuckle (species unknown),,
+2022-06-06,,Multiflora Rose,,
+2022-06-06,,Mugwort,,
+2022-06-06,,"Canada Thistle, Creeping Thistle",,
+2022-06-06,,Common Buckthorn,,
+2022-06-06,,Common Buckthorn,,
+2022-06-06,,Garlic Mustard,,
+2022-06-06,,Bull Thistle,,
+2022-06-06,,Dame's Rocket,,
+2022-06-06,,Honeysuckle (species unknown),,
+2022-06-06,,Mugwort,,
+2022-06-08,,Slender Falsebrome,,
+2022-06-10,,Common Buckthorn,,
+2022-06-10,,Common Buckthorn,,
+2022-06-10,,Purple Loosestrife,,
+2022-06-10,10.0,Water Chestnut,2010.0,1497783780.0
+2022-06-10,,Common Buckthorn,,
+2022-06-13,,Purple Loosestrife,,
+2022-06-13,,Common Buckthorn,,
+2022-06-13,,Common Buckthorn,,
+2022-06-13,,Common Buckthorn,,
+2022-06-13,,Purple Loosestrife,,
+2022-06-13,,Dame's Rocket,,
+2022-06-13,,Common Buckthorn,,
+2022-06-13,,Common Buckthorn,,
+2022-06-13,,Dame's Rocket,,
+2022-06-13,,"Canada Thistle, Creeping Thistle",,
+2022-06-13,,Common Buckthorn,,
+2022-06-13,,Purple Loosestrife,,
+2022-06-13,,Mugwort,,
+2022-06-13,,Mugwort,,
+2022-06-14,,Goutweed,,
+2022-06-14,,Mugwort,,
+2022-06-14,,Knotweed (species unknown),,
+2022-06-14,,Mugwort,,
+2022-06-14,,Honeysuckle (species unknown),,
+2022-06-14,,Multiflora Rose,,
+2022-06-14,,Narrowleaf Cattail,,
+2022-06-14,,Multiflora Rose,,
+2022-06-14,,Mugwort,,
+2022-06-14,,Multiflora Rose,,
+2022-06-14,,Multiflora Rose,,
+2022-06-14,,Mugwort,,
+2022-06-14,,Honeysuckle (species unknown),,
+2022-06-14,,Multiflora Rose,,
+2022-06-14,,Knotweed (species unknown),,
+2022-06-14,,Black Locust,,
+2022-06-14,,Rugosa Rose,,
+2022-06-14,,Dame's Rocket,,
+2022-06-14,,Honeysuckle (species unknown),,
+2022-06-14,,Knotweed (species unknown),,
+2022-06-14,,Honeysuckle (species unknown),,
+2022-06-14,,Goutweed,,
+2022-06-14,,Knotweed (species unknown),,
+2022-06-14,,Knotweed (species unknown),,
+2022-06-14,,Dame's Rocket,,
+2022-06-14,,Mugwort,,
+2022-06-14,,Honeysuckle (species unknown),,
+2022-06-14,,Goutweed,,
+2022-06-15,,"Japanese Knotweed, Japanese Bamboo",,
+2022-06-15,,Oriental Bittersweet,,
+2022-06-15,,"Japanese Knotweed, Japanese Bamboo",,
+2022-06-15,,"Japanese Knotweed, Japanese Bamboo",,
+2022-06-15,,Multiflora Rose,,
+2022-06-15,,Oriental Bittersweet,,
+2022-06-15,,"Japanese Knotweed, Japanese Bamboo",,
+2022-06-16,,"Japanese Knotweed, Japanese Bamboo",,
+2022-06-17,,Water Chestnut,,
+2022-06-18,,Common Buckthorn,,
+2022-06-18,,Purple Loosestrife,,
+2022-06-18,,Dame's Rocket,,
+2022-06-18,,Purple Loosestrife,,
+2022-06-18,,Common Buckthorn,,
+2022-06-18,,Common Buckthorn,,
+2022-06-18,,Honeysuckle (species unknown),,
+2022-06-18,,Common Buckthorn,,
+2022-06-18,,Purple Loosestrife,,
+2022-06-18,,Dame's Rocket,,
+2022-06-18,,Purple Loosestrife,,
+2022-06-18,,Purple Loosestrife,,
+2022-06-18,,Honeysuckle (species unknown),,
+2022-06-21,,False Spiraea,,
+2022-06-22,,Multiflora Rose,,
+2022-06-22,,Honeysuckle (species unknown),,
+2022-06-22,,Reed Canarygrass,,
+2022-06-22,,Honeysuckle (species unknown),,
+2022-06-22,,Honeysuckle (species unknown),,
+2022-06-22,10.0,Hemlock Woolly Adelgid,37.0,1497783790.0
+2022-06-23,,Honeysuckle (species unknown),,
+2022-06-23,,Honeysuckle (species unknown),,
+2022-06-23,,Honeysuckle (species unknown),,
+2022-06-23,,Honeysuckle (species unknown),,
+2022-06-23,,Honeysuckle (species unknown),,
+2022-06-23,,Honeysuckle (species unknown),,
+2022-06-29,,Slender Falsebrome,,
+2022-07-01,,"Tree-of-heaven, Ailanthus",,
+2022-07-01,,"Tree-of-heaven, Ailanthus",,
+2022-07-01,2.0,Beech leaf disease nematode,2.0,1497783792.0
+2022-07-01,,"Tree-of-heaven, Ailanthus",,
+2022-07-02,25.0,"Tree-of-heaven, Ailanthus",7681.0,1497783817.0
+2022-07-04,4.0,"Tree-of-heaven, Ailanthus",7685.0,1497783821.0
+2022-07-04,,Watercress,,
+2022-07-06,,Eurasian Water-milfoil,,
+2022-07-06,,Watercress,,
+2022-07-06,3000.0,European Frogbit; Common Frogbit,3000.0,1497786821.0
+2022-07-06,,Curly Pondweed,,
+2022-07-06,,Japanese Stiltgrass,,
+2022-07-06,,Japanese Stiltgrass,,
+2022-07-07,20.0,"Tree-of-heaven, Ailanthus",7705.0,1497786841.0
+2022-07-07,,Border Privet,,
+2022-07-07,12.0,"Tree-of-heaven, Ailanthus",7717.0,1497786853.0
+2022-07-07,,Japanese Angelica Tree,,
+2022-07-07,,Japanese Honeysuckle,,
+2022-07-07,3.0,Privet (species unknown),3.0,1497786856.0
+2022-07-07,,Multiflora Rose,,
+2022-07-07,,Japanese Honeysuckle,,
+2022-07-07,,Japanese Honeysuckle,,
+2022-07-07,,Japanese Honeysuckle,,
+2022-07-07,,Japanese Honeysuckle,,
+2022-07-07,,Border Privet,,
+2022-07-07,1.0,Multiflora Rose,2.0,1497786857.0
+2022-07-07,,Honeysuckle (species unknown),,
+2022-07-07,,Privet (species unknown),,
+2022-07-07,,Japanese Honeysuckle,,
+2022-07-07,,Japanese Honeysuckle,,
+2022-07-07,,Honeysuckle (species unknown),,
+2022-07-07,,Multiflora Rose,,
+2022-07-07,,Honeysuckle (species unknown),,
+2022-07-07,,Multiflora Rose,,
+2022-07-07,,Honeysuckle (species unknown),,
+2022-07-07,,Japanese Honeysuckle,,
+2022-07-07,,Japanese Honeysuckle,,
+2022-07-07,,"Climbing Nightshade, Bittersweet Nightshade",,
+2022-07-07,,Honeysuckle (species unknown),,
+2022-07-07,,Honeysuckle (species unknown),,
+2022-07-07,,Japanese Honeysuckle,,
+2022-07-08,,Morrows honeysuckle,,
+2022-07-08,,Oriental Bittersweet,,
+2022-07-08,,Japanese Honeysuckle,,
+2022-07-08,,"Common reed grass, phragmites",,
+2022-07-08,,Japanese Honeysuckle,,
+2022-07-08,,Border Privet,,
+2022-07-08,,Morrows honeysuckle,,
+2022-07-08,,Oriental Bittersweet,,
+2022-07-08,,Morrows honeysuckle,,
+2022-07-08,,"Asian Bush Clover, Chinese Lespedeza",,
+2022-07-08,,Border Privet,,
+2022-07-08,,Morrows honeysuckle,,
+2022-07-08,,Japanese Honeysuckle,,
+2022-07-08,,Oriental Bittersweet,,
+2022-07-08,,California Privet,,
+2022-07-08,,Oriental Bittersweet,,
+2022-07-08,,Oriental Bittersweet,,
+2022-07-08,,Japanese Honeysuckle,,
+2022-07-08,,Border Privet,,
+2022-07-11,100.0,Slender Falsebrome,106.0,1497786957.0
+2022-07-11,100.0,Slender Falsebrome,206.0,1497787057.0
+2022-07-12,10.0,"Tree-of-heaven, Ailanthus",7727.0,1497787067.0
+2022-07-13,,Japanese Stiltgrass,,
+2022-07-13,,Japanese Stiltgrass,,
+2022-07-13,,Slender Falsebrome,,
+2022-07-14,15.0,"Tree-of-heaven, Ailanthus",7742.0,1497787082.0
+2022-07-15,15.0,"Tree-of-heaven, Ailanthus",7757.0,1497787097.0
+2022-07-19,,"Common reed grass, phragmites",,
+2022-07-19,,Pale Swallowwort,,
+2022-07-19,,Japanese Stiltgrass,,
+2022-07-19,,Honeysuckle (species unknown),,
+2022-07-19,,Honeysuckle (species unknown),,
+2022-07-19,,Mugwort,,
+2022-07-19,,Mugwort,,
+2022-07-19,,Honeysuckle (species unknown),,
+2022-07-20,,Mugwort,,
+2022-07-20,,Knapweed (species unknown),,
+2022-07-20,,Honeysuckle (species unknown),,
+2022-07-20,,"Tree-of-heaven, Ailanthus",,
+2022-07-20,,"Tree-of-heaven, Ailanthus",,
+2022-07-21,,Japanese Stiltgrass,,
+2022-07-21,100.0,Multiflora Rose,102.0,1497787197.0
+2022-07-21,,Japanese Stiltgrass,,
+2022-07-22,,Multiflora Rose,,
+2022-07-22,,Honeysuckle (species unknown),,
+2022-07-22,,Common Buckthorn,,
+2022-07-22,,Coltsfoot,,
+2022-07-25,,European Frogbit; Common Frogbit,,
+2022-07-27,1000.0,Flowering rush,1000.0,1497788197.0
+2022-08-03,,Oriental Bittersweet,,
+2022-08-03,,Japanese Stiltgrass,,
+2022-08-04,,Japanese Stiltgrass,,
+2022-08-05,,Japanese Stiltgrass,,
+2022-08-05,,Japanese Stiltgrass,,
+2022-08-06,,Japanese Stiltgrass,,
+2022-08-09,,Japanese Stiltgrass,,
+2022-08-11,,Japanese Stiltgrass,,
+2022-08-11,,Water Chestnut,,
+2022-08-11,,Japanese Stiltgrass,,
+2022-08-14,,Water Chestnut,,
+2022-08-15,,European Frogbit; Common Frogbit,,
+2022-08-15,,Japanese Stiltgrass,,
+2022-08-15,,Japanese Stiltgrass,,
+2022-08-17,,Japanese Stiltgrass,,
+2022-08-17,,Japanese Stiltgrass,,
+2022-08-17,,Japanese Stiltgrass,,
+2022-08-17,,Japanese Stiltgrass,,
+2022-08-18,,Japanese Stiltgrass,,
+2022-08-18,,Japanese Stiltgrass,,
+2022-08-19,,Japanese Stiltgrass,,
+2022-08-19,,Japanese Stiltgrass,,
+2022-08-19,,Japanese Stiltgrass,,
+2022-08-19,,Japanese Stiltgrass,,
+2022-08-19,,Japanese Stiltgrass,,
+2022-08-19,,Japanese Stiltgrass,,
+2022-08-19,,Japanese Stiltgrass,,
+2022-08-20,,Japanese Stiltgrass,,
+2022-08-20,,Japanese Stiltgrass,,
+2022-08-20,,Japanese Stiltgrass,,
+2022-08-22,,Japanese Stiltgrass,,
+2022-08-22,,Japanese Stiltgrass,,
+2022-08-22,,Japanese Stiltgrass,,
+2022-08-22,,Japanese Stiltgrass,,
+2022-08-23,,Japanese Stiltgrass,,
+2022-08-23,,Japanese Stiltgrass,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Purple Loosestrife,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Purple Loosestrife,,
+2022-08-24,,Mugwort,,
+2022-08-24,,Cutleaf teasel,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Japanese Stiltgrass,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Purple Loosestrife,,
+2022-08-24,,Spotted Knapweed,,
+2022-08-24,,Honeysuckle (species unknown),,
+2022-08-24,,Honeysuckle (species unknown),,
+2022-08-24,,Purple Loosestrife,,
+2022-08-24,,Mugwort,,
+2022-08-24,,Purple Loosestrife,,
+2022-08-24,,Mugwort,,
+2022-08-24,,Mugwort,,
+2022-08-24,,Japanese Stiltgrass,,
+2022-08-24,,Japanese Stiltgrass,,
+2022-08-24,,Mugwort,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Purple Loosestrife,,
+2022-08-24,,Purple Loosestrife,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Japanese Stiltgrass,,
+2022-08-24,,Purple Loosestrife,,
+2022-08-24,,Purple Loosestrife,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Purple Loosestrife,,
+2022-08-24,,Japanese Stiltgrass,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Purple Loosestrife,,
+2022-08-24,,Common Buckthorn,,
+2022-08-24,,Mugwort,,
+2022-08-25,,Japanese Stiltgrass,,
+2022-08-25,,Japanese Stiltgrass,,
+2022-08-25,,Japanese Stiltgrass,,
+2022-08-26,,Japanese Stiltgrass,,
+2022-08-30,,Bristly Lady's-thumb,,
+2022-08-30,,Bristly Lady's-thumb,,
+2022-08-30,,Bristly Lady's-thumb,,
+2022-08-30,,Bristly Lady's-thumb,,
+2022-08-30,,Bristly Lady's-thumb,,
+2022-09-01,,Garlic Mustard,,
+2022-09-01,,Common Buckthorn,,
+2022-09-01,,Multiflora Rose,,
+2022-09-01,,Honeysuckle (species unknown),,
+2022-09-01,,Japanese Barberry,,
+2022-09-01,,Oriental Bittersweet,,
+2022-09-01,,Honeysuckle (species unknown),,
+2022-09-01,,Japanese Barberry,,
+2022-09-01,,Oriental Bittersweet,,
+2022-09-01,,Japanese Barberry,,
+2022-09-01,,Coltsfoot,,
+2022-09-01,,Oriental Bittersweet,,
+2022-09-01,,Honeysuckle (species unknown),,
+2022-09-01,,Oriental Bittersweet,,
+2022-09-01,,Multiflora Rose,,
+2022-09-01,,Multiflora Rose,,
+2022-09-01,,Multiflora Rose,,
+2022-09-01,,Oriental Bittersweet,,
+2022-09-01,,Multiflora Rose,,
+2022-09-01,,"Burning Bush, Winged Euonymus",,
+2022-09-01,,Oriental Bittersweet,,
+2022-09-01,,Coltsfoot,,
+2022-09-01,,Common Buckthorn,,
+2022-09-03,,Slender Falsebrome,,
+2022-09-07,4.0,Eurasian Water-milfoil,4.0,1497788201.0
+2022-09-09,,Japanese Stiltgrass,,
+2022-09-09,,Japanese Stiltgrass,,
+2022-09-09,,Japanese Stiltgrass,,
+2022-09-09,,Japanese Stiltgrass,,
+2022-09-09,,Japanese Stiltgrass,,
+2022-09-09,,Japanese Stiltgrass,,
+2022-09-09,,Japanese Stiltgrass,,
+2022-09-09,,Japanese Stiltgrass,,
+2022-09-09,,Japanese Stiltgrass,,
+2022-09-09,,Japanese Stiltgrass,,
+2022-09-09,100.0,Swallowwort (species unknown),100.0,1497788301.0
+2022-09-09,,Japanese Stiltgrass,,
+2022-09-14,,Japanese Stiltgrass,,
+2022-09-20,,"Jumping Worms (species unknown), Asian jumping worms",,
+2022-09-26,,"Tree-of-heaven, Ailanthus",,
+2022-09-26,,Bohemian knotweed,,
+2022-09-26,5.0,"Tree-of-heaven, Ailanthus",7762.0,1497788306.0
+2022-09-26,1.0,"Japanese Knotweed, Japanese Bamboo",2301.0,1497788307.0
+2022-09-28,,"Common reed grass, phragmites",,
+2022-09-28,,Japanese Stiltgrass,,
+2022-09-28,,Japanese Stiltgrass,,
+2022-09-28,,Japanese Stiltgrass,,
+2022-09-28,,Japanese Stiltgrass,,
+2022-09-28,,Japanese Stiltgrass,,
+2022-10-08,,"Glossy Buckthorn, European Buckthorn",,
+2022-10-12,2.0,Spotted Lanternfly,2.0,1497788309.0
+2022-11-08,200.0,"Common reed grass, phragmites",1497554971.0,1497788509.0
+2022-11-11,1000.0,"Common reed grass, phragmites",1497555971.0,1497789509.0
+2022-11-11,1000.0,"Common reed grass, phragmites",1497556971.0,1497790509.0
+2022-11-23,6.0,"Burning Bush, Winged Euonymus",6.0,1497790515.0
+2022-12-11,4.0,Multiflora Rose,106.0,1497790519.0
+2023-01-20,,Emerald Ash Borer,,
+2023-03-12,15.0,Hemlock Woolly Adelgid,52.0,1497790534.0
+2023-03-23,,"Common reed grass, phragmites",,
+2023-03-23,300.0,"Common reed grass, phragmites",1497557271.0,1497790834.0
+2023-03-23,200.0,"Common reed grass, phragmites",1497557471.0,1497791034.0
+2023-03-30,,"Common reed grass, phragmites",,
+2023-05-10,,"Lesser celandine, Fig Buttercup",,
+2023-05-10,,Mugwort,,
+2023-05-10,,"Common reed grass, phragmites",,
+2023-05-10,,Goutweed,,
+2023-05-10,,"Lesser celandine, Fig Buttercup",,
+2023-05-11,,"Canada Thistle, Creeping Thistle",,
+2023-05-11,,Oriental Bittersweet,,
+2023-05-11,,Bull Thistle,,
+2023-05-11,,"Common reed grass, phragmites",,
+2023-05-11,,"Common reed grass, phragmites",,
+2023-05-11,,Common Buckthorn,,
+2023-05-11,,"Canada Thistle, Creeping Thistle",,
+2023-05-11,,Common Buckthorn,,
+2023-05-11,,Mugwort,,
+2023-05-11,,"Canada Thistle, Creeping Thistle",,
+2023-05-11,,Oriental Bittersweet,,
+2023-05-11,,Common Buckthorn,,
+2023-05-11,,Common Buckthorn,,
+2023-05-11,,"Canada Thistle, Creeping Thistle",,
+2023-05-11,,Oriental Bittersweet,,
+2023-05-11,,Common Buckthorn,,
+2023-05-11,,"Common reed grass, phragmites",,
+2023-05-11,,Common Buckthorn,,
+2023-05-11,,"Canada Thistle, Creeping Thistle",,
+2023-05-11,,Garlic Mustard,,
+2023-05-21,,Beech leaf disease nematode,,
+2023-05-22,,Common Buckthorn,,
+2023-05-22,,Common Buckthorn,,
+2023-05-22,,Common Buckthorn,,
+2023-05-22,,Common Buckthorn,,
+2023-05-22,,Common Buckthorn,,
+2023-05-22,,Common Buckthorn,,
+2023-05-22,,Mugwort,,
+2023-05-22,,Common Buckthorn,,
+2023-05-22,,Common Buckthorn,,
+2023-05-22,,Oriental Bittersweet,,
+2023-05-22,,Common Buckthorn,,
+2023-05-22,,"Lesser celandine, Fig Buttercup",,
+2023-05-22,,Common Buckthorn,,
+2023-05-23,,Goutweed,,
+2023-05-23,,Goutweed,,
+2023-05-23,,Mugwort,,
+2023-05-23,,Narrowleaf Cattail,,
+2023-05-23,,Yellow Iris,,
+2023-05-23,,Yellow Iris,,
+2023-05-23,,Crown Vetch,,
+2023-05-23,,"Canada Thistle, Creeping Thistle",,
+2023-05-23,,Honeysuckle (species unknown),,
+2023-05-23,,Goutweed,,
+2023-05-23,,Common Buckthorn,,
+2023-05-23,,Garlic Mustard,,
+2023-05-23,,Mugwort,,
+2023-05-23,,"Lesser celandine, Fig Buttercup",,
+2023-05-23,,Knotweed (species unknown),,
+2023-05-23,,Reed Canarygrass,,
+2023-05-23,,Dame's Rocket,,
+2023-05-24,,Mugwort,,
+2023-05-24,,Knotweed (species unknown),,
+2023-05-24,,Garlic Mustard,,
+2023-05-24,,Knotweed (species unknown),,
+2023-05-24,,Dame's Rocket,,
+2023-05-24,,Mugwort,,
+2023-05-24,,Reed Canarygrass,,
+2023-05-24,,Knotweed (species unknown),,
+2023-05-24,,Knotweed (species unknown),,
+2023-05-24,,Mugwort,,
+2023-05-24,,Reed Canarygrass,,
+2023-05-24,,"Lesser celandine, Fig Buttercup",,
+2023-05-24,,Mugwort,,
+2023-05-24,,Mugwort,,
+2023-05-24,,Knotweed (species unknown),,
+2023-05-24,,Mugwort,,
+2023-05-24,,Knotweed (species unknown),,
+2023-05-24,,"Lesser celandine, Fig Buttercup",,
+2023-05-24,,Knotweed (species unknown),,
+2023-05-24,,Reed Canarygrass,,
+2023-05-24,,Mugwort,,
+2023-05-24,,Mugwort,,
+2023-05-24,,Mugwort,,
+2023-05-24,,Mugwort,,
+2023-05-24,,Reed Canarygrass,,
+2023-05-24,,Knotweed (species unknown),,
+2023-05-24,,Mugwort,,
+2023-05-26,,Garlic Mustard,,
+2023-05-26,,Common Buckthorn,,
+2023-05-26,,Honeysuckle (species unknown),,
+2023-05-30,,Reed Canarygrass,,
+2023-05-30,,Beech leaf disease nematode,,
+2023-05-30,,Reed Canarygrass,,
+2023-05-30,,Beech leaf disease nematode,,
+2023-05-30,,Beech leaf disease nematode,,
+2023-05-30,,Beech leaf disease nematode,,
+2023-05-30,,Periwinkle,,
+2023-05-30,,Beech leaf disease nematode,,
+2023-05-30,,Garlic Mustard,,
+2023-05-31,,Multiflora Rose,,
+2023-05-31,,Mugwort,,
+2023-05-31,,Garlic Mustard,,
+2023-05-31,,Multiflora Rose,,
+2023-05-31,,Multiflora Rose,,
+2023-05-31,,Multiflora Rose,,
+2023-05-31,,Honeysuckle (species unknown),,
+2023-05-31,,Honeysuckle (species unknown),,
+2023-05-31,,Honeysuckle (species unknown),,
+2023-06-01,,Beech leaf disease nematode,,
+2023-06-01,,Beech leaf disease nematode,,
+2023-06-01,,Beech leaf disease nematode,,
+2023-06-01,,Honeysuckle (species unknown),,
+2023-06-01,,Beech leaf disease nematode,,
+2023-06-01,,Beech leaf disease nematode,,
+2023-06-01,,Reed Canarygrass,,
+2023-06-01,,"Glossy Buckthorn, European Buckthorn",,
+2023-06-09,,Common Buckthorn,,
+2023-06-09,,Mugwort,,
+2023-06-09,,Periwinkle,,
+2023-06-09,,Periwinkle,,
+2023-06-09,,Dame's Rocket,,
+2023-06-09,,Multiflora Rose,,
+2023-06-09,,Common Buckthorn,,
+2023-06-09,,Dame's Rocket,,
+2023-06-09,,Common Buckthorn,,
+2023-06-09,,Common Buckthorn,,
+2023-06-09,,Common Buckthorn,,
+2023-06-09,,Mugwort,,
+2023-06-09,,"Canada Thistle, Creeping Thistle",,
+2023-06-09,,Mugwort,,
+2023-06-09,,Crown Vetch,,
+2023-06-09,,Mugwort,,
+2023-06-09,,Common Buckthorn,,
+2023-06-10,,Mugwort,,
+2023-06-16,,Mugwort,,
+2023-06-16,,Knotweed (species unknown),,
+2023-06-16,,Knotweed (species unknown),,
+2023-06-16,,Knotweed (species unknown),,
+2023-06-16,,Honeysuckle (species unknown),,
+2023-06-16,,Honeysuckle (species unknown),,
+2023-06-16,,Privet (species unknown),,
+2023-06-16,,Goutweed,,
+2023-06-16,,Swallowwort (species unknown),,
+2023-06-16,,Goutweed,,
+2023-06-16,,Mugwort,,
+2023-06-16,,Knotweed (species unknown),,
+2023-06-16,,Multiflora Rose,,
+2023-06-16,,Honeysuckle (species unknown),,
+2023-06-20,,Mugwort,,
+2023-06-20,,Garlic Mustard,,
+2023-06-20,,Garlic Mustard,,
+2023-06-20,,Multiflora Rose,,
+2023-06-20,,Mugwort,,
+2023-06-20,,Mugwort,,
+2023-06-20,,Multiflora Rose,,
+2023-06-20,,"Japanese Knotweed, Japanese Bamboo",,
+2023-06-20,,"Japanese Knotweed, Japanese Bamboo",,
+2023-06-20,,"Japanese Knotweed, Japanese Bamboo",,
+2023-06-20,,Japanese Barberry,,
+2023-06-21,,"Japanese Knotweed, Japanese Bamboo",,
+2023-06-21,,"Japanese Knotweed, Japanese Bamboo",,
+2023-06-21,,"Japanese Knotweed, Japanese Bamboo",,
+2023-06-21,500.0,"Japanese Knotweed, Japanese Bamboo",2801.0,1497791534.0
+2023-06-21,,Beech leaf disease nematode,,
+2023-06-23,6.0,Yellow Iris,26.0,1497791540.0
+2023-06-29,1000.0,Wild Parsnip,1000.0,1497792540.0
+2023-07-01,,European Frogbit; Common Frogbit,,
+2023-07-07,,"Japanese Knotweed, Japanese Bamboo",,
+2023-07-10,,Japanese Stiltgrass,,
+2023-07-10,,Japanese Stiltgrass,,
+2023-07-10,,Japanese Stiltgrass,,
+2023-07-10,,Japanese Stiltgrass,,
+2023-07-10,,Japanese Stiltgrass,,
+2023-07-10,,Japanese Stiltgrass,,
+2023-07-11,,Japanese Stiltgrass,,
+2023-07-11,,Japanese Stiltgrass,,
+2023-07-11,,Japanese Stiltgrass,,
+2023-07-11,,Japanese Stiltgrass,,
+2023-07-11,,Japanese Stiltgrass,,
+2023-07-12,,Honeysuckle (species unknown),,
+2023-07-12,,Multiflora Rose,,
+2023-07-12,,Garlic Mustard,,
+2023-07-12,,Honeysuckle (species unknown),,
+2023-07-12,,Multiflora Rose,,
+2023-07-12,,Honeysuckle (species unknown),,
+2023-07-12,,Honeysuckle (species unknown),,
+2023-07-12,,Honeysuckle (species unknown),,
+2023-07-12,,Honeysuckle (species unknown),,
+2023-07-13,,Japanese Stiltgrass,,
+2023-07-13,100.0,Oriental Bittersweet,100.0,1497792640.0
+2023-07-13,100.0,Oriental Bittersweet,200.0,1497792740.0
+2023-07-13,,Japanese Stiltgrass,,
+2023-07-13,,"Mile-a-minute, Mile a minute weed",,
+2023-07-13,,Japanese Stiltgrass,,
+2023-07-14,,"Glossy Buckthorn, European Buckthorn",,
+2023-07-14,,Common Buckthorn,,
+2023-07-14,,Mugwort,,
+2023-07-14,,Honeysuckle (species unknown),,
+2023-07-14,,Common Buckthorn,,
+2023-07-14,,Honeysuckle (species unknown),,
+2023-07-14,,Honeysuckle (species unknown),,
+2023-07-14,,Multiflora Rose,,
+2023-07-14,,Honeysuckle (species unknown),,
+2023-07-14,11.0,Flowering rush,1011.0,1497792751.0
+2023-07-14,,Japanese Stiltgrass,,
+2023-07-17,,Goats rue; Professor weed,,
+2023-07-17,,Oriental Bittersweet,,
+2023-07-17,50.0,Oriental Bittersweet,250.0,1497792801.0
+2023-07-17,,Multiflora Rose,,
+2023-07-17,,Goats rue; Professor weed,,
+2023-07-18,,Water Chestnut,,
+2023-07-18,,Goats rue; Professor weed,,
+2023-07-21,,Honeysuckle (species unknown),,
+2023-07-21,,Mugwort,,
+2023-07-21,,Crown Vetch,,
+2023-07-21,,Mugwort,,
+2023-07-21,,Knotweed (species unknown),,
+2023-07-21,,Knotweed (species unknown),,
+2023-07-21,,Mugwort,,
+2023-07-21,,Honeysuckle (species unknown),,
+2023-07-21,,Knotweed (species unknown),,
+2023-07-21,,Crown Vetch,,
+2023-07-21,,Knotweed (species unknown),,
+2023-07-21,,Fullers Teasel,,
+2023-07-21,,Knotweed (species unknown),,
+2023-07-21,,Common Buckthorn,,
+2023-07-21,,Reed Canarygrass,,
+2023-07-21,,Crown Vetch,,
+2023-07-21,,Crown Vetch,,
+2023-07-21,,Honeysuckle (species unknown),,
+2023-07-21,,Honeysuckle (species unknown),,
+2023-07-21,,"Canada Thistle, Creeping Thistle",,
+2023-07-21,,Mugwort,,
+2023-07-21,,Bull Thistle,,
+2023-07-21,,Knotweed (species unknown),,
+2023-07-21,,Crown Vetch,,
+2023-07-21,,"Lesser celandine, Fig Buttercup",,
+2023-07-21,,Crown Vetch,,
+2023-07-21,,Honeysuckle (species unknown),,
+2023-07-21,,Honeysuckle (species unknown),,
+2023-07-21,,Honeysuckle (species unknown),,
+2023-07-21,,Honeysuckle (species unknown),,
+2023-07-21,,Mugwort,,
+2023-07-24,,Autumn Olive,,
+2023-07-24,,Common Buckthorn,,
+2023-07-24,,Multiflora Rose,,
+2023-07-24,,Black Locust,,
+2023-07-24,,Spotted Knapweed,,
+2023-07-24,,Japanese Stiltgrass,,
+2023-07-24,,Multiflora Rose,,
+2023-07-24,,Common Buckthorn,,
+2023-07-24,,Multiflora Rose,,
+2023-07-24,,Japanese Stiltgrass,,
+2023-07-24,,"Common reed grass, phragmites",,
+2023-07-24,,Common Buckthorn,,
+2023-07-24,,"Common reed grass, phragmites",,
+2023-07-24,,Crown Vetch,,
+2023-07-24,,"Common reed grass, phragmites",,
+2023-07-24,,"Fly Honeysuckle, Bell's honeysuckle",,
+2023-07-24,,Spotted Knapweed,,
+2023-07-24,,Japanese Stiltgrass,,
+2023-07-24,,Multiflora Rose,,
+2023-07-24,,"Common reed grass, phragmites",,
+2023-07-24,,Spotted Knapweed,,
+2023-07-24,,Common Buckthorn,,
+2023-07-24,,Common Buckthorn,,
+2023-07-24,,Narrowleaf Cattail,,
+2023-07-24,,Common Buckthorn,,
+2023-07-24,,"Canada Thistle, Creeping Thistle",,
+2023-07-24,,Spotted Knapweed,,
+2023-07-24,,"Common reed grass, phragmites",,
+2023-07-24,,Common Buckthorn,,
+2023-07-24,,Mugwort,,
+2023-07-24,,Common Buckthorn,,
+2023-07-24,,"Creeping Jenny, Moneywort",,
+2023-07-24,,Multiflora Rose,,
+2023-07-24,,Spotted Knapweed,,
+2023-07-24,,Common Buckthorn,,
+2023-07-25,,Japanese Stiltgrass,,
+2023-07-25,,Japanese Stiltgrass,,
+2023-07-25,,Japanese Stiltgrass,,
+2023-07-25,,Japanese Stiltgrass,,
+2023-07-25,100.0,Spotted Knapweed,100.0,1497792901.0
+2023-07-26,35.0,Common Buckthorn,35.0,1497792936.0
+2023-07-26,50.0,Honeysuckle (species unknown),50.0,1497792986.0
+2023-07-26,50.0,Amur Honeysuckle,50.0,1497793036.0
+2023-07-26,50.0,Common Buckthorn,85.0,1497793086.0
+2023-07-27,,Japanese Stiltgrass,,
+2023-07-27,,Japanese Stiltgrass,,
+2023-07-31,47.0,Oriental Bittersweet,297.0,1497793133.0
+2023-07-31,5.0,Oriental Bittersweet,302.0,1497793138.0
+2023-07-31,,Oriental Bittersweet,,
+2023-08-01,500.0,"Japanese Knotweed, Japanese Bamboo",3301.0,1497793638.0
+2023-08-02,300.0,Japanese Barberry,300.0,1497793938.0
+2023-08-03,,Japanese Stiltgrass,,
+2023-08-04,50.0,Slender Falsebrome,256.0,1497793988.0
+2023-08-13,,Knotweed (species unknown),,
+2023-08-17,,Purple Loosestrife,,
+2023-08-17,,Purple Loosestrife,,
+2023-08-17,,Curly Pondweed,,
+2023-08-17,,Eurasian Water-milfoil,,
+2023-08-21,30.0,Eurasian Water-milfoil,34.0,1497794018.0
+2023-09-05,2.0,Spotted Lanternfly,4.0,1497794020.0
+2023-09-24,,Water Chestnut,,
+2023-09-24,,Eurasian Water-milfoil,,
+2023-09-27,,Eurasian Water-milfoil,,
+2023-09-27,,Eurasian Water-milfoil,,
+2023-09-27,,Eurasian Water-milfoil,,
+2023-09-27,,Eurasian Water-milfoil,,
