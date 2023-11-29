@@ -5,6 +5,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 from sklearn.compose import ColumnTransformer
 
+
 def map_impact_to_numeric(impact_text):
     if impact_text == '1 - Minimal Concern':
         return 1
@@ -17,15 +18,16 @@ def map_impact_to_numeric(impact_text):
     else:
         return 0
 
+
 def filter_and_translate(data):
     print('Filtering data...')
-    columns_to_keep = ['Growth form', 'Affected System', 'Affected Taxon', 'Mechanism', 'Impact']
-    filtered_data = data[columns_to_keep].copy()  
+    columns_to_keep = ['Growth form', 'Affected System',
+                       'Affected Taxon', 'Mechanism', 'Impact']
+    filtered_data = data[columns_to_keep].copy()
     filtered_data = filtered_data[filtered_data['Impact'] != 'Not Available']
-    filtered_data['Impact'] = filtered_data['Impact'].apply(map_impact_to_numeric)
+    filtered_data['Impact'] = filtered_data['Impact'].apply(
+        map_impact_to_numeric)
     return filtered_data
-
-
 
 
 if __name__ == "__main__":
@@ -43,10 +45,12 @@ if __name__ == "__main__":
     # Split the data into training and testing sets
     X = df[['Growth form', 'Affected System', 'Affected Taxon', 'Mechanism']]
     y = df['Impact']
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=0.2, random_state=42)
 
     # Initialize the Support Vector Machine Classifier
-    clf = SVC(kernel='linear', random_state=42)  # You can try different kernels like 'rbf', 'poly', etc.
+    # You can try different kernels like 'rbf', 'poly', etc.
+    clf = SVC(kernel='linear', random_state=42)
 
     # Train the model
     clf.fit(X_train, y_train)
