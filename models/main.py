@@ -7,6 +7,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from sklearn.preprocessing import LabelEncoder
 from itertools import product
 
+
 def map_impact_to_numeric(impact_text):
     if impact_text == '1 - Minimal Concern':
         return 0
@@ -19,12 +20,15 @@ def map_impact_to_numeric(impact_text):
     else:
         return 4
 
+
 def filter_and_translate(data):
     print('Filtering data...')
-    columns_to_keep = ['Growth form', 'Affected System', 'Affected Taxon', 'Mechanism', 'Impact']
-    filtered_data = data[columns_to_keep].copy()  
+    columns_to_keep = ['Growth form', 'Affected System',
+                       'Affected Taxon', 'Mechanism', 'Impact']
+    filtered_data = data[columns_to_keep].copy()
     filtered_data = filtered_data[filtered_data['Impact'] != 'Not Available']
-    filtered_data['Impact'] = filtered_data['Impact'].apply(map_impact_to_numeric)
+    filtered_data['Impact'] = filtered_data['Impact'].apply(
+        map_impact_to_numeric)
     return filtered_data
 
 def run_svm(X_train, y_train, X_test, y_test, kernel_type='linear'):
@@ -110,7 +114,8 @@ def main():
     # Split the data into training and testing sets
     X = df[['Growth form', 'Affected System', 'Affected Taxon', 'Mechanism']]
     y = df['Impact']
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=0.2, random_state=42)
 
     # SVM
     #print('Running SVM...')
