@@ -6,7 +6,7 @@ from xgboost import XGBClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 from sklearn.preprocessing import LabelEncoder
 from itertools import product
-
+import matplotlib.pyplot as plt
 
 def map_impact_to_numeric(impact_text):
     if impact_text == '1 - Minimal Concern':
@@ -96,6 +96,26 @@ def hyper_xgb(X_train, y_train, X_test, y_test, n_estimators=100, learning_rates
 
     return best_params
 
+def eda_histo(df, field):
+    # Check if the field exists in the DataFrame
+    if field not in df.columns:
+        print(f"Error: '{field}' not found in the DataFrame.")
+        return
+    # Get the value counts for the specified field
+    value_counts = df[field].value_counts()
+    # Plotting the histogram
+    plt.bar(value_counts.index, value_counts.values)
+    # Adding labels and title
+    plt.xlabel("Values")
+    plt.ylabel("Quantity")
+    plt.title(f"{field} Analysis")
+    # Rotating x-axis labels for better readability
+    plt.xticks(rotation=45, ha="right")
+    # Adjusting bottom margin to prevent x-axis labels cutoff
+    plt.subplots_adjust(bottom=0.55)
+    # Display the plot
+    plt.show()
+
 def main():
     df = pd.read_excel('ny_species_impact.xlsx')
     print('Data size: ',df.size)
@@ -130,5 +150,17 @@ def main():
     xgb_model = run_xgb(X_train, y_train, X_test, y_test, n_estimators=100, max_depth=3, learning_rate=0.1, random_state=42)
     best_hyperparameters = hyper_xgb(X_train, y_train, X_test, y_test)
 
+
+
+def eda_stats():
+    df = pd.read_excel('ny_species_impact.xlsx')
+    print('Data size: ',df.size)
+    print('DF loaded...')
+    eda_histo(df, 'Growth form')
+    eda_histo(df, 'Affected System')
+    eda_histo(df, 'Affected Taxon')
+    eda_histo(df, 'Mechanism')
+    
 if __name__ == "__main__":
+    eda_stats()
     main()
